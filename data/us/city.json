@@ -1,0 +1,1352 @@
+[
+    {
+        "ch_name": "阿拉巴马州",
+        "en_name": "Alabama",
+        "code": "AL",
+        "cities": [
+            {
+                "ch_name": "伯明翰",
+                "en_name": "Birmingham"
+            },
+            {
+                "ch_name": "蒙哥马利",
+                "en_name": "Montgomery"
+            },
+            {
+                "ch_name": "莫比尔",
+                "en_name": "Mobile"
+            },
+            {
+                "ch_name": "亨茨维尔",
+                "en_name": "Huntsville"
+            }
+        ]
+    },
+    {
+        "ch_name": "阿拉斯加州",
+        "en_name": "Alaska",
+        "code": "AK",
+        "cities": [
+            {
+                "ch_name": "安克雷奇",
+                "en_name": "Anchorage"
+            }
+        ]
+    },
+    {
+        "ch_name": "阿利桑那州",
+        "en_name": "Arizona",
+        "code": "AZ",
+        "cities": [
+            {
+                "ch_name": "菲尼克斯",
+                "en_name": "Phoenix"
+            },
+            {
+                "ch_name": "图森",
+                "en_name": "Tucson"
+            },
+            {
+                "ch_name": "梅萨",
+                "en_name": "Mesa"
+            },
+            {
+                "ch_name": "格伦代尔",
+                "en_name": "Glendale"
+            },
+            {
+                "ch_name": "钱德勒",
+                "en_name": "Chandler"
+            },
+            {
+                "ch_name": "斯科茨代尔",
+                "en_name": "Scottsdale"
+            },
+            {
+                "ch_name": "吉尔伯特",
+                "en_name": "Gilbert"
+            },
+            {
+                "ch_name": "坦佩",
+                "en_name": "Tempe"
+            },
+            {
+                "ch_name": "皮奥里亚",
+                "en_name": "Peoria"
+            }
+        ]
+    },
+    {
+        "ch_name": "阿肯色州",
+        "en_name": "Arkansas",
+        "code": "AR",
+        "cities": [
+            {
+                "ch_name": "小石城",
+                "en_name": "Little Rock"
+            }
+        ]
+    },
+    {
+        "ch_name": "加利福尼亚州",
+        "en_name": "California",
+        "code": "CA",
+        "cities": [
+            {
+                "ch_name": "洛杉矶",
+                "en_name": "Los Angeles"
+            },
+            {
+                "ch_name": "圣迭戈",
+                "en_name": "San Diego"
+            },
+            {
+                "ch_name": "圣荷西",
+                "en_name": "San Jose"
+            },
+            {
+                "ch_name": "旧金山",
+                "en_name": "San Francisco"
+            },
+            {
+                "ch_name": "长滩",
+                "en_name": "Long Beach"
+            },
+            {
+                "ch_name": "弗雷斯诺",
+                "en_name": "Fresno"
+            },
+            {
+                "ch_name": "萨克拉门托",
+                "en_name": "Sacramento"
+            },
+            {
+                "ch_name": "奥克兰",
+                "en_name": "Oakland"
+            },
+            {
+                "ch_name": "圣安娜",
+                "en_name": "Santa Ana"
+            },
+            {
+                "ch_name": "安那罕",
+                "en_name": "Anaheim"
+            },
+            {
+                "ch_name": "贝克斯菲尔德",
+                "en_name": "Bakersfield"
+            },
+            {
+                "ch_name": "里弗塞得",
+                "en_name": "Riverside"
+            },
+            {
+                "ch_name": "斯托克顿",
+                "en_name": "Stockton"
+            },
+            {
+                "ch_name": "丘拉维斯塔",
+                "en_name": "Chula Vista"
+            },
+            {
+                "ch_name": "莫德斯托",
+                "en_name": "Modesto"
+            },
+            {
+                "ch_name": "弗里蒙特",
+                "en_name": "Fremont"
+            },
+            {
+                "ch_name": "格伦代尔",
+                "en_name": "Glendale"
+            },
+            {
+                "ch_name": "圣贝纳迪诺",
+                "en_name": "San Bernardino"
+            },
+            {
+                "ch_name": "亨丁顿滩",
+                "en_name": "Huntington Beach"
+            },
+            {
+                "ch_name": "尔湾",
+                "en_name": "Irvine"
+            },
+            {
+                "ch_name": "奥克斯纳德",
+                "en_name": "Oxnard"
+            },
+            {
+                "ch_name": "莫雷诺谷",
+                "en_name": "Moreno Valley"
+            },
+            {
+                "ch_name": "安大略",
+                "en_name": "Ontario"
+            },
+            {
+                "ch_name": "库卡蒙格牧场",
+                "en_name": "Rancho Cucamonga"
+            },
+            {
+                "ch_name": "方塔纳",
+                "en_name": "Fontana"
+            },
+            {
+                "ch_name": "圣塔克拉利塔",
+                "en_name": "Santa Clarita"
+            },
+            {
+                "ch_name": "园林市",
+                "en_name": "Garden Grove"
+            },
+            {
+                "ch_name": "欧申赛德",
+                "en_name": "Oceanside"
+            },
+            {
+                "ch_name": "波莫纳",
+                "en_name": "Pomona"
+            },
+            {
+                "ch_name": "圣罗莎",
+                "en_name": "Santa Rosa"
+            },
+            {
+                "ch_name": "科洛纳",
+                "en_name": "Corona"
+            },
+            {
+                "ch_name": "萨利纳斯",
+                "en_name": "Salinas"
+            },
+            {
+                "ch_name": "帕萨迪纳",
+                "en_name": "Pasadena"
+            },
+            {
+                "ch_name": "托伦斯",
+                "en_name": "Torrance"
+            },
+            {
+                "ch_name": "兰开斯特",
+                "en_name": "Lancaster"
+            },
+            {
+                "ch_name": "海沃德",
+                "en_name": "Hayward"
+            },
+            {
+                "ch_name": "棕榈谷",
+                "en_name": "Palmdale"
+            },
+            {
+                "ch_name": "橙市",
+                "en_name": "Orange"
+            },
+            {
+                "ch_name": "埃斯孔迪多",
+                "en_name": "Escondido"
+            },
+            {
+                "ch_name": "富勒顿",
+                "en_name": "Fullerton"
+            },
+            {
+                "ch_name": "森尼韦尔",
+                "en_name": "Sunnyvale"
+            },
+            {
+                "ch_name": "埃尔克格罗夫",
+                "en_name": "Elk Grove"
+            },
+            {
+                "ch_name": "千橡市",
+                "en_name": "Thousand Oaks"
+            },
+            {
+                "ch_name": "埃尔蒙特",
+                "en_name": "El Monte"
+            },
+            {
+                "ch_name": "康科德",
+                "en_name": "Concord"
+            },
+            {
+                "ch_name": "西米谷",
+                "en_name": "Simi Valley"
+            },
+            {
+                "ch_name": "瓦列霍",
+                "en_name": "Vallejo"
+            },
+            {
+                "ch_name": "英格尔伍德",
+                "en_name": "Inglewood"
+            },
+            {
+                "ch_name": "维塞利亚",
+                "en_name": "Visalia"
+            },
+            {
+                "ch_name": "科斯塔梅萨",
+                "en_name": "Costa Mesa"
+            },
+            {
+                "ch_name": "唐尼",
+                "en_name": "Downey"
+            },
+            {
+                "ch_name": "圣克拉拉",
+                "en_name": "Santa Clara"
+            },
+            {
+                "ch_name": "西柯汶纳",
+                "en_name": "West Covina"
+            },
+            {
+                "ch_name": "罗斯维尔",
+                "en_name": "Roseville"
+            },
+            {
+                "ch_name": "诺沃克",
+                "en_name": "Norwalk"
+            },
+            {
+                "ch_name": "费尔菲尔德",
+                "en_name": "Fairfield"
+            },
+            {
+                "ch_name": "伯班克",
+                "en_name": "Burbank"
+            },
+            {
+                "ch_name": "文图拉",
+                "en_name": "San Buenaventura"
+            },
+            {
+                "ch_name": "里士满",
+                "en_name": "Richmond"
+            },
+            {
+                "ch_name": "柏克莱",
+                "en_name": "Berkeley"
+            },
+            {
+                "ch_name": "戴利城",
+                "en_name": "Daly City"
+            },
+            {
+                "ch_name": "安条克",
+                "en_name": "Antioch"
+            }
+        ]
+    },
+    {
+        "ch_name": "科罗拉多州",
+        "en_name": "Colorado",
+        "code": "CO",
+        "cities": [
+            {
+                "ch_name": "丹佛",
+                "en_name": "Denver"
+            },
+            {
+                "ch_name": "科罗拉多泉",
+                "en_name": "Colorado Springs"
+            },
+            {
+                "ch_name": "奥罗拉",
+                "en_name": "Aurora"
+            },
+            {
+                "ch_name": "莱克伍德",
+                "en_name": "Lakewood"
+            },
+            {
+                "ch_name": "科林斯堡",
+                "en_name": "Fort Collins"
+            },
+            {
+                "ch_name": "桑顿",
+                "en_name": "Thornton"
+            },
+            {
+                "ch_name": "西敏",
+                "en_name": "Westminster"
+            },
+            {
+                "ch_name": "阿瓦达",
+                "en_name": "Arvada"
+            },
+            {
+                "ch_name": "普韦布洛",
+                "en_name": "Pueblo"
+            }
+        ]
+    },
+    {
+        "ch_name": "康涅狄格州",
+        "en_name": "Connecticut",
+        "code": "CT",
+        "cities": []
+    },
+    {
+        "ch_name": "特拉华州",
+        "en_name": "Delaware",
+        "code": "DE",
+        "cities": []
+    },
+    {
+        "ch_name": "佛罗里达州",
+        "en_name": "Florida",
+        "code": "FL",
+        "cities": [
+            {
+                "ch_name": "杰克逊维尔",
+                "en_name": "Jacksonville"
+            },
+            {
+                "ch_name": "迈阿密",
+                "en_name": "Miami"
+            },
+            {
+                "ch_name": "坦帕",
+                "en_name": "Tampa"
+            },
+            {
+                "ch_name": "圣彼德斯堡",
+                "en_name": "St. Petersburg"
+            },
+            {
+                "ch_name": "奥兰多",
+                "en_name": "Orlando"
+            },
+            {
+                "ch_name": "海厄利亚",
+                "en_name": "Hialeah"
+            },
+            {
+                "ch_name": "劳德代尔堡",
+                "en_name": "Fort Lauderdale"
+            },
+            {
+                "ch_name": "塔拉哈西",
+                "en_name": "Tallahassee"
+            },
+            {
+                "ch_name": "开普科勒尔",
+                "en_name": "Cape Coral"
+            },
+            {
+                "ch_name": "潘布鲁克派恩斯",
+                "en_name": "Pembroke Pines"
+            },
+            {
+                "ch_name": "好莱坞",
+                "en_name": "Hollywood"
+            },
+            {
+                "ch_name": "圣露西港",
+                "en_name": "Port St. Lucie"
+            },
+            {
+                "ch_name": "科勒尔斯普林斯",
+                "en_name": "Coral Springs"
+            },
+            {
+                "ch_name": "盖恩斯维尔",
+                "en_name": "Gainesville"
+            },
+            {
+                "ch_name": "米拉马尔",
+                "en_name": "Miramar"
+            },
+            {
+                "ch_name": "克利尔沃特",
+                "en_name": "Clearwater"
+            },
+            {
+                "ch_name": "庞帕诺比奇",
+                "en_name": "Pompano Beach"
+            }
+        ]
+    },
+    {
+        "ch_name": "乔治亚州",
+        "en_name": "Georgia",
+        "code": "GA",
+        "cities": [
+            {
+                "ch_name": "亚特兰大",
+                "en_name": "Atlanta"
+            },
+            {
+                "ch_name": "奥古斯塔",
+                "en_name": "Augusta"
+            },
+            {
+                "ch_name": "哥伦布",
+                "en_name": "Columbus"
+            },
+            {
+                "ch_name": "沙瓦纳",
+                "en_name": "Savannah"
+            },
+            {
+                "ch_name": "雅典",
+                "en_name": "Athens"
+            }
+        ]
+    },
+    {
+        "ch_name": "夏威夷州",
+        "en_name": "Hawaii",
+        "code": "HI",
+        "cities": [
+            {
+                "ch_name": "檀香山",
+                "en_name": "Honolulu"
+            }
+        ]
+    },
+    {
+        "ch_name": "爱达荷州",
+        "en_name": "Idaho",
+        "code": "ID",
+        "cities": [
+            {
+                "ch_name": "博伊西",
+                "en_name": "Boise"
+            }
+        ]
+    },
+    {
+        "ch_name": "伊利诺斯州",
+        "en_name": "Illinois",
+        "code": "IL",
+        "cities": [
+            {
+                "ch_name": "芝加哥",
+                "en_name": "Chicago"
+            },
+            {
+                "ch_name": "奥罗拉",
+                "en_name": "Aurora"
+            },
+            {
+                "ch_name": "罗克福德",
+                "en_name": "Rockford"
+            },
+            {
+                "ch_name": "内珀维尔",
+                "en_name": "Naperville"
+            },
+            {
+                "ch_name": "乔利埃特",
+                "en_name": "Joliet"
+            },
+            {
+                "ch_name": "斯普林菲尔德",
+                "en_name": "Springfield"
+            },
+            {
+                "ch_name": "皮奥里亚",
+                "en_name": "Peoria"
+            },
+            {
+                "ch_name": "埃尔金",
+                "en_name": "Elgin"
+            }
+        ]
+    },
+    {
+        "ch_name": "印第安纳州",
+        "en_name": "Indiana",
+        "code": "IN",
+        "cities": [
+            {
+                "ch_name": "印第安纳波利斯",
+                "en_name": "Indianapolis"
+            },
+            {
+                "ch_name": "韦恩堡",
+                "en_name": "Fort Wayne"
+            },
+            {
+                "ch_name": "埃文斯维尔",
+                "en_name": "Evansville"
+            },
+            {
+                "ch_name": "南本德",
+                "en_name": "South Bend"
+            }
+        ]
+    },
+    {
+        "ch_name": "爱荷华州",
+        "en_name": "Iowa",
+        "code": "IA",
+        "cities": [
+            {
+                "ch_name": "得梅因",
+                "en_name": "Des Moines"
+            },
+            {
+                "ch_name": "锡达拉皮兹",
+                "en_name": "Cedar Rapids"
+            }
+        ]
+    },
+    {
+        "ch_name": "堪萨斯州",
+        "en_name": "Kansas",
+        "code": "KS",
+        "cities": [
+            {
+                "ch_name": "威奇托",
+                "en_name": "Wichita"
+            },
+            {
+                "ch_name": "欧弗兰帕克",
+                "en_name": "Overland Park"
+            },
+            {
+                "ch_name": "堪萨斯城",
+                "en_name": "Kansas City"
+            },
+            {
+                "ch_name": "托皮卡",
+                "en_name": "Topeka"
+            },
+            {
+                "ch_name": "奥拉西",
+                "en_name": "Olathe"
+            }
+        ]
+    },
+    {
+        "ch_name": "肯塔基州",
+        "en_name": "Kentucky",
+        "code": "KY",
+        "cities": [
+            {
+                "ch_name": "路易维尔",
+                "en_name": "Louisville"
+            },
+            {
+                "ch_name": "列克星顿",
+                "en_name": "Lexington"
+            }
+        ]
+    },
+    {
+        "ch_name": "路易斯安那州",
+        "en_name": "Louisiana",
+        "code": "LA",
+        "cities": [
+            {
+                "ch_name": "巴吞鲁日",
+                "en_name": "Baton Rouge"
+            },
+            {
+                "ch_name": "新奥尔良",
+                "en_name": "New Orleans"
+            },
+            {
+                "ch_name": "什里夫波特",
+                "en_name": "Shreveport"
+            },
+            {
+                "ch_name": "拉法叶",
+                "en_name": "Lafayette"
+            }
+        ]
+    },
+    {
+        "ch_name": "缅因州",
+        "en_name": "Maine",
+        "code": "ME",
+        "cities": []
+    },
+    {
+        "ch_name": "马里兰州",
+        "en_name": "Maryland",
+        "code": "MD",
+        "cities": [
+            {
+                "ch_name": "巴尔的摩",
+                "en_name": "Baltimore"
+            }
+        ]
+    },
+    {
+        "ch_name": "马萨诸塞州",
+        "en_name": "Massachusetts",
+        "code": "MA",
+        "cities": [
+            {
+                "ch_name": "波士顿",
+                "en_name": "Boston"
+            },
+            {
+                "ch_name": "乌斯特",
+                "en_name": "Worcester"
+            },
+            {
+                "ch_name": "斯普林菲尔德",
+                "en_name": "Springfield"
+            },
+            {
+                "ch_name": "洛厄尔",
+                "en_name": "Lowell"
+            },
+            {
+                "ch_name": "剑桥",
+                "en_name": "Cambridge"
+            }
+        ]
+    },
+    {
+        "ch_name": "密歇根州",
+        "en_name": "Michigan",
+        "code": "MI",
+        "cities": [
+            {
+                "ch_name": "底特律",
+                "en_name": "Detroit"
+            },
+            {
+                "ch_name": "大急流城",
+                "en_name": "Great Rapids"
+            },
+            {
+                "ch_name": "沃伦",
+                "en_name": "Warren"
+            },
+            {
+                "ch_name": "斯特灵海茨",
+                "en_name": "Sterling Heights"
+            },
+            {
+                "ch_name": "弗林特",
+                "en_name": "Flint"
+            },
+            {
+                "ch_name": "兰盛",
+                "en_name": "Lansing"
+            },
+            {
+                "ch_name": "安娜堡",
+                "en_name": "Ann Arbor"
+            }
+        ]
+    },
+    {
+        "ch_name": "明尼苏达州",
+        "en_name": "Minnesota",
+        "code": "MN",
+        "cities": [
+            {
+                "ch_name": "明尼亚波利斯",
+                "en_name": "Minneapolis"
+            },
+            {
+                "ch_name": "圣保罗",
+                "en_name": "St. Paul"
+            }
+        ]
+    },
+    {
+        "ch_name": "密西西比州",
+        "en_name": "Mississippi",
+        "code": "MS",
+        "cities": [
+            {
+                "ch_name": "杰克逊",
+                "en_name": "Jackson"
+            }
+        ]
+    },
+    {
+        "ch_name": "密苏里州",
+        "en_name": "Missouri",
+        "code": "MO",
+        "cities": [
+            {
+                "ch_name": "堪萨斯城",
+                "en_name": "Kansas City"
+            },
+            {
+                "ch_name": "圣路易斯",
+                "en_name": "St. Louis"
+            },
+            {
+                "ch_name": "斯普林菲尔德",
+                "en_name": "Springfield"
+            },
+            {
+                "ch_name": "独立城",
+                "en_name": "Independence"
+            }
+        ]
+    },
+    {
+        "ch_name": "蒙大拿州",
+        "en_name": "Montana",
+        "code": "MT",
+        "cities": [
+            {
+                "ch_name": "比灵斯",
+                "en_name": "Billings"
+            }
+        ]
+    },
+    {
+        "ch_name": "内布拉斯加州",
+        "en_name": "Nebraska",
+        "code": "NE",
+        "cities": [
+            {
+                "ch_name": "奥马哈",
+                "en_name": "Omaha"
+            },
+            {
+                "ch_name": "林肯",
+                "en_name": "Lincoln"
+            }
+        ]
+    },
+    {
+        "ch_name": "内华达州",
+        "en_name": "Nevada",
+        "code": "NV",
+        "cities": [
+            {
+                "ch_name": "拉斯维加斯",
+                "en_name": "Las Vegas"
+            },
+            {
+                "ch_name": "亨德森",
+                "en_name": "Henderson"
+            },
+            {
+                "ch_name": "雷诺",
+                "en_name": "Reno"
+            },
+            {
+                "ch_name": "北拉斯维加斯",
+                "en_name": "North Las Vegas"
+            }
+        ]
+    },
+    {
+        "ch_name": "新罕布什尔州",
+        "en_name": "New hampshire",
+        "code": "NH",
+        "cities": []
+    },
+    {
+        "ch_name": "新泽西州",
+        "en_name": "New jersey",
+        "code": "NJ",
+        "cities": [
+            {
+                "ch_name": "纽瓦克",
+                "en_name": "Newark"
+            },
+            {
+                "ch_name": "泽西城",
+                "en_name": "Jersey City"
+            },
+            {
+                "ch_name": "帕特森",
+                "en_name": "Paterson"
+            },
+            {
+                "ch_name": "伊丽莎白",
+                "en_name": "Elizabeth"
+            }
+        ]
+    },
+    {
+        "ch_name": "新墨西哥州",
+        "en_name": "New mexico",
+        "code": "NM",
+        "cities": [
+            {
+                "ch_name": "阿布奎基",
+                "en_name": "Albuquerque"
+            }
+        ]
+    },
+    {
+        "ch_name": "纽约州",
+        "en_name": "New York",
+        "code": "NY",
+        "cities": [
+            {
+                "ch_name": "纽约市",
+                "en_name": "New York"
+            },
+            {
+                "ch_name": "布法罗",
+                "en_name": "Buffalo"
+            },
+            {
+                "ch_name": "罗彻斯特",
+                "en_name": "Rochester"
+            },
+            {
+                "ch_name": "扬克斯",
+                "en_name": "Yonkers"
+            }
+        ]
+    },
+    {
+        "ch_name": "北卡罗来纳州",
+        "en_name": "North Carolina",
+        "code": "NC",
+        "cities": [
+            {
+                "ch_name": "夏洛特",
+                "en_name": "Charlotte"
+            },
+            {
+                "ch_name": "罗利",
+                "en_name": "Raleigh"
+            },
+            {
+                "ch_name": "格林斯伯勒",
+                "en_name": "Greensboro"
+            },
+            {
+                "ch_name": "达勒姆",
+                "en_name": "Durham"
+            },
+            {
+                "ch_name": "温斯顿-塞勒姆",
+                "en_name": "Winston-Salem"
+            },
+            {
+                "ch_name": "费页特维",
+                "en_name": "Fayetteville"
+            },
+            {
+                "ch_name": "卡瑞市",
+                "en_name": "Cary"
+            }
+        ]
+    },
+    {
+        "ch_name": "北达科他州",
+        "en_name": "North Dakota",
+        "code": "ND",
+        "cities": []
+    },
+    {
+        "ch_name": "俄亥俄州",
+        "en_name": "Ohio",
+        "code": "OH",
+        "cities": [
+            {
+                "ch_name": "哥伦布",
+                "en_name": "Columbus"
+            },
+            {
+                "ch_name": "克里夫兰",
+                "en_name": "Cleveland"
+            },
+            {
+                "ch_name": "辛辛那提",
+                "en_name": "Cincinnati"
+            },
+            {
+                "ch_name": "托莱多",
+                "en_name": "Toledo"
+            },
+            {
+                "ch_name": "阿克伦",
+                "en_name": "Akron"
+            },
+            {
+                "ch_name": "代顿",
+                "en_name": "Dayton"
+            }
+        ]
+    },
+    {
+        "ch_name": "俄克拉荷马州",
+        "en_name": "Oklahoma",
+        "code": "OK",
+        "cities": [
+            {
+                "ch_name": "俄克拉荷马城",
+                "en_name": "Oklahoma City"
+            },
+            {
+                "ch_name": "图尔萨",
+                "en_name": "Tulsa"
+            },
+            {
+                "ch_name": "诺曼",
+                "en_name": "Norman"
+            }
+        ]
+    },
+    {
+        "ch_name": "俄勒冈州",
+        "en_name": "Oregon",
+        "code": "OR",
+        "cities": [
+            {
+                "ch_name": "波特兰",
+                "en_name": "Portland"
+            },
+            {
+                "ch_name": "塞勒姆",
+                "en_name": "Salem"
+            },
+            {
+                "ch_name": "尤金",
+                "en_name": "Eugene"
+            }
+        ]
+    },
+    {
+        "ch_name": "宾夕法尼亚州",
+        "en_name": "Pennsylvania",
+        "code": "PA",
+        "cities": [
+            {
+                "ch_name": "费城",
+                "en_name": "Philadelphia"
+            },
+            {
+                "ch_name": "匹兹堡",
+                "en_name": "Pittsburgh"
+            },
+            {
+                "ch_name": "阿伦敦",
+                "en_name": "Allentown"
+            },
+            {
+                "ch_name": "伊利",
+                "en_name": "Erie"
+            }
+        ]
+    },
+    {
+        "ch_name": "罗得岛州",
+        "en_name": "Rhode island",
+        "code": "RI",
+        "cities": [
+            {
+                "ch_name": "普洛威顿斯",
+                "en_name": "Providence"
+            }
+        ]
+    },
+    {
+        "ch_name": "南卡罗来纳州",
+        "en_name": "South carolina",
+        "code": "SC",
+        "cities": [
+            {
+                "ch_name": "哥伦比亚",
+                "en_name": "Columbia"
+            },
+            {
+                "ch_name": "查尔斯顿",
+                "en_name": "Charleston"
+            }
+        ]
+    },
+    {
+        "ch_name": "南达科他州",
+        "en_name": "South dakota",
+        "code": "SD",
+        "cities": [
+            {
+                "ch_name": "苏瀑",
+                "en_name": "Sioux Falls"
+            }
+        ]
+    },
+    {
+        "ch_name": "田纳西州",
+        "en_name": "Tennessee",
+        "code": "TN",
+        "cities": [
+            {
+                "ch_name": "孟菲斯",
+                "en_name": "Memphis"
+            },
+            {
+                "ch_name": "纳什维尔",
+                "en_name": "Nashville"
+            },
+            {
+                "ch_name": "诺克斯维尔",
+                "en_name": "Knoxville"
+            },
+            {
+                "ch_name": "查塔诺加",
+                "en_name": "Chattanooga"
+            },
+            {
+                "ch_name": "克拉克斯维尔",
+                "en_name": "Clarksville"
+            }
+        ]
+    },
+    {
+        "ch_name": "得克萨斯州",
+        "en_name": "Texas",
+        "code": "TX",
+        "cities": [
+            {
+                "ch_name": "休士顿",
+                "en_name": "Houston"
+            },
+            {
+                "ch_name": "圣安东尼奥",
+                "en_name": "San Antonio"
+            },
+            {
+                "ch_name": "达拉斯",
+                "en_name": "Dallas"
+            },
+            {
+                "ch_name": "奥斯汀",
+                "en_name": "Austin"
+            },
+            {
+                "ch_name": "福和市",
+                "en_name": "Fort Worth"
+            },
+            {
+                "ch_name": "厄尔巴索",
+                "en_name": "El Paso"
+            },
+            {
+                "ch_name": "阿灵顿",
+                "en_name": "Arlington"
+            },
+            {
+                "ch_name": "科珀斯克里斯蒂",
+                "en_name": "Corpus Christi"
+            },
+            {
+                "ch_name": "普拉诺",
+                "en_name": "Plano"
+            },
+            {
+                "ch_name": "加兰",
+                "en_name": "Garland"
+            },
+            {
+                "ch_name": "拉雷多",
+                "en_name": "Laredo"
+            },
+            {
+                "ch_name": "拉伯克",
+                "en_name": "Lubbock"
+            },
+            {
+                "ch_name": "欧文",
+                "en_name": "Irving"
+            },
+            {
+                "ch_name": "阿马里诺",
+                "en_name": "Amarillo"
+            },
+            {
+                "ch_name": "布朗斯维尔",
+                "en_name": "Brownsville"
+            },
+            {
+                "ch_name": "大草原城",
+                "en_name": "Grand Prairie"
+            },
+            {
+                "ch_name": "帕萨迪纳",
+                "en_name": "Pasadena"
+            },
+            {
+                "ch_name": "梅斯基特",
+                "en_name": "Mesquite"
+            },
+            {
+                "ch_name": "麦卡伦",
+                "en_name": "McAllen"
+            },
+            {
+                "ch_name": "卡罗尔顿",
+                "en_name": "Carrollton"
+            },
+            {
+                "ch_name": "韦科",
+                "en_name": "Waco"
+            },
+            {
+                "ch_name": "阿比林",
+                "en_name": "Abilene"
+            },
+            {
+                "ch_name": "博蒙特",
+                "en_name": "Beaumont"
+            },
+            {
+                "ch_name": "登顿",
+                "en_name": "Denton"
+            },
+            {
+                "ch_name": "麦金尼",
+                "en_name": "McKinney"
+            },
+            {
+                "ch_name": "米德兰",
+                "en_name": "Midland"
+            },
+            {
+                "ch_name": "基林",
+                "en_name": "Killeen"
+            }
+        ]
+    },
+    {
+        "ch_name": "犹他州",
+        "en_name": "Utah",
+        "code": "UT",
+        "cities": [
+            {
+                "ch_name": "盐湖城",
+                "en_name": "Salt Lake City"
+            },
+            {
+                "ch_name": "西瓦利城",
+                "en_name": "West Valley"
+            },
+            {
+                "ch_name": "普若佛",
+                "en_name": "Provo"
+            },
+            {
+                "ch_name": "西约旦",
+                "en_name": "West Jordan"
+            }
+        ]
+    },
+    {
+        "ch_name": "佛蒙特州",
+        "en_name": "Vermont",
+        "code": "VT",
+        "cities": []
+    },
+    {
+        "ch_name": "弗吉尼亚州",
+        "en_name": "Virginia",
+        "code": "VA",
+        "cities": [
+            {
+                "ch_name": "弗吉尼亚比奇",
+                "en_name": "Virginia Beach"
+            },
+            {
+                "ch_name": "诺福克",
+                "en_name": "Norfolk"
+            },
+            {
+                "ch_name": "切萨皮克",
+                "en_name": "Chesapeake"
+            },
+            {
+                "ch_name": "阿灵顿",
+                "en_name": "Arlington"
+            },
+            {
+                "ch_name": "里士满",
+                "en_name": "Richmond"
+            },
+            {
+                "ch_name": "纽波特纽斯",
+                "en_name": "Newport News"
+            },
+            {
+                "ch_name": "汉普顿",
+                "en_name": "Hampton"
+            },
+            {
+                "ch_name": "亚历山德里亚",
+                "en_name": "Alexandria"
+            },
+            {
+                "ch_name": "朴茨茅斯",
+                "en_name": "Portsmouth"
+            }
+        ]
+    },
+    {
+        "ch_name": "华盛顿州",
+        "en_name": "Washington",
+        "code": "WA",
+        "cities": [
+            {
+                "ch_name": "西雅图",
+                "en_name": "Seattle"
+            },
+            {
+                "ch_name": "华盛顿",
+                "en_name": "Washington"
+            },
+            {
+                "ch_name": "斯波坎",
+                "en_name": "Spokane"
+            },
+            {
+                "ch_name": "塔科马",
+                "en_name": "Tacoma"
+            },
+            {
+                "ch_name": "温哥华",
+                "en_name": "Vancouver"
+            },
+            {
+                "ch_name": "贝尔维尤",
+                "en_name": "Bellevue"
+            }
+        ]
+    },
+    {
+        "ch_name": "西弗吉尼亚州",
+        "en_name": "West Virginia",
+        "code": "WV",
+        "cities": []
+    },
+    {
+        "ch_name": "威斯康辛州",
+        "en_name": "Wisconsin",
+        "code": "WI",
+        "cities": [
+            {
+                "ch_name": "密尔沃基",
+                "en_name": "Milwaukee"
+            },
+            {
+                "ch_name": "麦迪逊",
+                "en_name": "Madison"
+            },
+            {
+                "ch_name": "格林贝",
+                "en_name": "Green Bay"
+            }
+        ]
+    },
+    {
+        "ch_name": "怀俄明州",
+        "en_name": "Wyoming",
+        "code": "WY",
+        "cities": []
+    }
+]

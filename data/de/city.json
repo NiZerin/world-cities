@@ -1,0 +1,2510 @@
+[
+    {
+        "ch_name": "巴登符腾堡",
+        "en_name": "Baden-Württemberg",
+        "code": "BW",
+        "cities": [
+            {
+                "ch_name": "阿伦",
+                "en_name": "Aalen"
+            },
+            {
+                "ch_name": "阿赫恩",
+                "en_name": "Achern"
+            },
+            {
+                "ch_name": "阿尔布斯塔特",
+                "en_name": "Albstadt"
+            },
+            {
+                "ch_name": "巴克南",
+                "en_name": "Backnang"
+            },
+            {
+                "ch_name": "巴登巴登",
+                "en_name": "Baden-Baden"
+            },
+            {
+                "ch_name": "巴林根",
+                "en_name": "Balingen"
+            },
+            {
+                "ch_name": "比贝拉赫",
+                "en_name": "Biberach"
+            },
+            {
+                "ch_name": "比蒂格海姆·比辛根",
+                "en_name": "Bietigheim-Bissingen"
+            },
+            {
+                "ch_name": "布雷滕",
+                "en_name": "Bretten"
+            },
+            {
+                "ch_name": "布鲁赫萨尔",
+                "en_name": "Bruchsal"
+            },
+            {
+                "ch_name": "伯布林根",
+                "en_name": "Böblingen"
+            },
+            {
+                "ch_name": "比尔",
+                "en_name": "Bühl"
+            },
+            {
+                "ch_name": "卡尔夫",
+                "en_name": "Calw"
+            },
+            {
+                "ch_name": "克雷斯海姆",
+                "en_name": "Crailsheim"
+            },
+            {
+                "ch_name": "埃欣根",
+                "en_name": "Ehingen an der Donau"
+            },
+            {
+                "ch_name": "埃门丁根",
+                "en_name": "Emmendingen"
+            },
+            {
+                "ch_name": "埃斯林根",
+                "en_name": "Esslingen"
+            },
+            {
+                "ch_name": "埃特林根",
+                "en_name": "Ettlingen"
+            },
+            {
+                "ch_name": "费尔巴哈",
+                "en_name": "Fellbach"
+            },
+            {
+                "ch_name": "费尔德施塔特",
+                "en_name": "Filderstadt"
+            },
+            {
+                "ch_name": "弗赖堡",
+                "en_name": "Freiburg im Breisgau"
+            },
+            {
+                "ch_name": "弗罗伊登施塔特",
+                "en_name": "Freudenstadt"
+            },
+            {
+                "ch_name": "弗里德里希沙芬",
+                "en_name": "Friedrichshafen"
+            },
+            {
+                "ch_name": "加格诺",
+                "en_name": "Gaggenau"
+            },
+            {
+                "ch_name": "盖斯林根",
+                "en_name": "Geislingen an der Steige"
+            },
+            {
+                "ch_name": "格平根",
+                "en_name": "Göppingen"
+            },
+            {
+                "ch_name": "海德堡",
+                "en_name": "Heidelberg"
+            },
+            {
+                "ch_name": "海登海姆",
+                "en_name": "Heidenheim"
+            },
+            {
+                "ch_name": "海尔布伦",
+                "en_name": "Heilbronn"
+            },
+            {
+                "ch_name": "赫伦伯格",
+                "en_name": "Herrenberg"
+            },
+            {
+                "ch_name": "卡尔斯鲁厄",
+                "en_name": "Karlsruhe"
+            },
+            {
+                "ch_name": "凯尔",
+                "en_name": "Kehl"
+            },
+            {
+                "ch_name": "基尔夏海姆",
+                "en_name": "Kirchheim unter Teck"
+            },
+            {
+                "ch_name": "康斯坦茨",
+                "en_name": "Konstanz"
+            },
+            {
+                "ch_name": "科恩韦斯特海姆",
+                "en_name": "Kornwestheim"
+            },
+            {
+                "ch_name": "金策尔斯奥",
+                "en_name": "Künzelsau"
+            },
+            {
+                "ch_name": "莱门",
+                "en_name": "Leimen"
+            },
+            {
+                "ch_name": "莱因费尔登-埃希特尔丁根",
+                "en_name": "Leinfelden-Echterdingen"
+            },
+            {
+                "ch_name": "莱昂伯格",
+                "en_name": "Leonberg"
+            },
+            {
+                "ch_name": "路德维希堡",
+                "en_name": "Ludwigsburg"
+            },
+            {
+                "ch_name": "勒拉赫",
+                "en_name": "Lörrach"
+            },
+            {
+                "ch_name": "曼海姆",
+                "en_name": "Mannheim"
+            },
+            {
+                "ch_name": "莫斯巴赫",
+                "en_name": "Mosbach"
+            },
+            {
+                "ch_name": "米尔阿克",
+                "en_name": "Mühlacker"
+            },
+            {
+                "ch_name": "内卡苏姆",
+                "en_name": "Neckarsulm"
+            },
+            {
+                "ch_name": "努尔廷根",
+                "en_name": "Nürtingen"
+            },
+            {
+                "ch_name": "奥芬堡",
+                "en_name": "Offenburg"
+            },
+            {
+                "ch_name": "奥斯特菲尔登",
+                "en_name": "Ostfildern"
+            },
+            {
+                "ch_name": "普福尔济姆",
+                "en_name": "Pforzheim"
+            },
+            {
+                "ch_name": "拉多尔夫采尔",
+                "en_name": "Radolfzell am Bodensee"
+            },
+            {
+                "ch_name": "拉施塔特",
+                "en_name": "Rastatt"
+            },
+            {
+                "ch_name": "拉文斯堡",
+                "en_name": "Ravensburg"
+            },
+            {
+                "ch_name": "鲁特林根",
+                "en_name": "Reutlingen"
+            },
+            {
+                "ch_name": "莱因费尔登（巴登）",
+                "en_name": "Rheinfelden (Baden)"
+            },
+            {
+                "ch_name": "罗特韦尔",
+                "en_name": "Rottweil"
+            },
+            {
+                "ch_name": "肖恩多夫",
+                "en_name": "Schorndorf"
+            },
+            {
+                "ch_name": "施瓦本格明德",
+                "en_name": "Schwäbisch Gmünd"
+            },
+            {
+                "ch_name": "施瓦本哈尔",
+                "en_name": "Schwäbisch Hall"
+            },
+            {
+                "ch_name": "西格马林根",
+                "en_name": "Sigmaringen"
+            },
+            {
+                "ch_name": "辛德尔芬根",
+                "en_name": "Sindelfingen"
+            },
+            {
+                "ch_name": "辛谢姆",
+                "en_name": "Sinsheim"
+            },
+            {
+                "ch_name": "斯图加特",
+                "en_name": "Stuttgart"
+            },
+            {
+                "ch_name": "陶伯比肖夫舍姆",
+                "en_name": "Tauberbischofsheim"
+            },
+            {
+                "ch_name": "图特林根",
+                "en_name": "Tuttlingen"
+            },
+            {
+                "ch_name": "蒂宾根",
+                "en_name": "Tübingen"
+            },
+            {
+                "ch_name": "乌尔姆",
+                "en_name": "Ulm"
+            },
+            {
+                "ch_name": "维欣根·德恩斯",
+                "en_name": "Vaihingen an der Enz"
+            },
+            {
+                "ch_name": "维林根·施文宁根",
+                "en_name": "Villingen-Schwenningen"
+            },
+            {
+                "ch_name": "魏布林根",
+                "en_name": "Waiblingen"
+            },
+            {
+                "ch_name": "瓦尔茨胡特田根",
+                "en_name": "Waldshut-Tiengen"
+            },
+            {
+                "ch_name": "阿尔高地区旺根",
+                "en_name": "Wangen im Allgäu"
+            },
+            {
+                "ch_name": "魏尔",
+                "en_name": "Weil am Rhein"
+            },
+            {
+                "ch_name": "温海姆",
+                "en_name": "Weinheim"
+            },
+            {
+                "ch_name": "维斯洛赫",
+                "en_name": "Wiesloch"
+            },
+            {
+                "ch_name": "温嫩登",
+                "en_name": "Winnenden"
+            }
+        ]
+    },
+    {
+        "ch_name": "巴伐利亚州",
+        "en_name": "Bavaria",
+        "code": "BY",
+        "cities": [
+            {
+                "ch_name": "艾哈奇",
+                "en_name": "Aichach"
+            },
+            {
+                "ch_name": "旧厄廷",
+                "en_name": "Altötting"
+            },
+            {
+                "ch_name": "安伯格",
+                "en_name": "Amberg"
+            },
+            {
+                "ch_name": "安斯巴赫",
+                "en_name": "Ansbach"
+            },
+            {
+                "ch_name": "阿斯查芬堡",
+                "en_name": "Aschaffenburg"
+            },
+            {
+                "ch_name": "奥格斯堡",
+                "en_name": "Augsburg"
+            },
+            {
+                "ch_name": "巴特基辛根",
+                "en_name": "Bad Kissingen"
+            },
+            {
+                "ch_name": "巴特诺伊斯塔特",
+                "en_name": "Bad Neustadt"
+            },
+            {
+                "ch_name": "巴特赖钦霍尔",
+                "en_name": "Bad Reichenhall"
+            },
+            {
+                "ch_name": "巴特特尔茨",
+                "en_name": "Bad Tölz"
+            },
+            {
+                "ch_name": "班伯格",
+                "en_name": "Bamberg"
+            },
+            {
+                "ch_name": "贝鲁斯",
+                "en_name": "Bayreuth"
+            },
+            {
+                "ch_name": "卡姆",
+                "en_name": "Cham"
+            },
+            {
+                "ch_name": "科伯格",
+                "en_name": "Coburg"
+            },
+            {
+                "ch_name": "达豪",
+                "en_name": "Dachau"
+            },
+            {
+                "ch_name": "德根多夫",
+                "en_name": "Deggendorf"
+            },
+            {
+                "ch_name": "迪林根",
+                "en_name": "Dillingen"
+            },
+            {
+                "ch_name": "丁戈尔芬",
+                "en_name": "Dingolfing"
+            },
+            {
+                "ch_name": "多瑙沃特",
+                "en_name": "Donauwörth"
+            },
+            {
+                "ch_name": "埃伯斯伯格",
+                "en_name": "Ebersberg"
+            },
+            {
+                "ch_name": "艾希斯特",
+                "en_name": "Eichstätt"
+            },
+            {
+                "ch_name": "埃尔丁",
+                "en_name": "Erding"
+            },
+            {
+                "ch_name": "埃尔兰根",
+                "en_name": "Erlangen"
+            },
+            {
+                "ch_name": "福希海姆",
+                "en_name": "Forchheim"
+            },
+            {
+                "ch_name": "弗赖辛",
+                "en_name": "Freising"
+            },
+            {
+                "ch_name": "弗雷永",
+                "en_name": "Freyung"
+            },
+            {
+                "ch_name": "弗里德伯格",
+                "en_name": "Friedberg"
+            },
+            {
+                "ch_name": "菲斯滕费尔德布鲁克",
+                "en_name": "Fürstenfeldbruck"
+            },
+            {
+                "ch_name": "菲尔特",
+                "en_name": "Fürth"
+            },
+            {
+                "ch_name": "加米什·帕滕基琴",
+                "en_name": "Garmisch-Partenkirchen"
+            },
+            {
+                "ch_name": "格雷茨里德",
+                "en_name": "Geretsried"
+            },
+            {
+                "ch_name": "盖默灵",
+                "en_name": "Germering"
+            },
+            {
+                "ch_name": "甘茨堡",
+                "en_name": "Günzburg"
+            },
+            {
+                "ch_name": "哈斯富特",
+                "en_name": "Haßfurt"
+            },
+            {
+                "ch_name": "霍夫",
+                "en_name": "Hof"
+            },
+            {
+                "ch_name": "英戈尔斯塔特",
+                "en_name": "Ingolstadt"
+            },
+            {
+                "ch_name": "卡尔斯塔特",
+                "en_name": "Karlstadt"
+            },
+            {
+                "ch_name": "考夫贝伦",
+                "en_name": "Kaufbeuren"
+            },
+            {
+                "ch_name": "凯尔海姆",
+                "en_name": "Kelheim"
+            },
+            {
+                "ch_name": "肯普顿",
+                "en_name": "Kempten"
+            },
+            {
+                "ch_name": "基津根",
+                "en_name": "Kitzingen"
+            },
+            {
+                "ch_name": "克朗奇",
+                "en_name": "Kronach"
+            },
+            {
+                "ch_name": "库姆巴赫",
+                "en_name": "Kulmbach"
+            },
+            {
+                "ch_name": "克尼斯布伦",
+                "en_name": "Königsbrunn"
+            },
+            {
+                "ch_name": "兰茨伯格",
+                "en_name": "Landsberg"
+            },
+            {
+                "ch_name": "兰德舒特",
+                "en_name": "Landshut"
+            },
+            {
+                "ch_name": "劳夫",
+                "en_name": "Lauf"
+            },
+            {
+                "ch_name": "利希滕费尔斯",
+                "en_name": "Lichtenfels"
+            },
+            {
+                "ch_name": "林道",
+                "en_name": "Lindau"
+            },
+            {
+                "ch_name": "马尔克托贝尔多尔夫",
+                "en_name": "Marktoberdorf"
+            },
+            {
+                "ch_name": "梅明根",
+                "en_name": "Memmingen"
+            },
+            {
+                "ch_name": "米斯巴赫",
+                "en_name": "Miesbach"
+            },
+            {
+                "ch_name": "米尔顿伯格",
+                "en_name": "Miltenberg"
+            },
+            {
+                "ch_name": "明德尔海姆",
+                "en_name": "Mindelheim"
+            },
+            {
+                "ch_name": "慕尼黑",
+                "en_name": "Munich"
+            },
+            {
+                "ch_name": "穆尔豪斯",
+                "en_name": "Mühldorf"
+            },
+            {
+                "ch_name": "新乌尔姆",
+                "en_name": "Neu-Ulm"
+            },
+            {
+                "ch_name": "新堡",
+                "en_name": "Neuburg"
+            },
+            {
+                "ch_name": "纽马克特",
+                "en_name": "Neumarkt"
+            },
+            {
+                "ch_name": "纽伦堡",
+                "en_name": "Nuremberg"
+            },
+            {
+                "ch_name": "帕绍",
+                "en_name": "Passau"
+            },
+            {
+                "ch_name": "普法芬霍芬",
+                "en_name": "Pfaffenhofen"
+            },
+            {
+                "ch_name": "普法尔基兴",
+                "en_name": "Pfarrkirchen"
+            },
+            {
+                "ch_name": "雷根",
+                "en_name": "Regen"
+            },
+            {
+                "ch_name": "雷根斯堡",
+                "en_name": "Regensburg"
+            },
+            {
+                "ch_name": "罗森海姆",
+                "en_name": "Rosenheim"
+            },
+            {
+                "ch_name": "罗斯",
+                "en_name": "Roth"
+            },
+            {
+                "ch_name": "施瓦巴赫",
+                "en_name": "Schwabach"
+            },
+            {
+                "ch_name": "施万多夫",
+                "en_name": "Schwandorf"
+            },
+            {
+                "ch_name": "施韦恩福",
+                "en_name": "Schweinfurt"
+            },
+            {
+                "ch_name": "松托芬",
+                "en_name": "Sonthofen"
+            },
+            {
+                "ch_name": "斯塔恩伯格",
+                "en_name": "Starnberg"
+            },
+            {
+                "ch_name": "斯特劳宾",
+                "en_name": "Straubing"
+            },
+            {
+                "ch_name": "蒂申罗伊特",
+                "en_name": "Tirschenreuth"
+            },
+            {
+                "ch_name": "特朗斯坦",
+                "en_name": "Traunstein"
+            },
+            {
+                "ch_name": "下施莱斯海姆",
+                "en_name": "Unterschleißheim"
+            },
+            {
+                "ch_name": "魏登",
+                "en_name": "Weiden"
+            },
+            {
+                "ch_name": "韦尔海姆",
+                "en_name": "Weilheim"
+            },
+            {
+                "ch_name": "比勒费尔德",
+                "en_name": "Weißenburg"
+            },
+            {
+                "ch_name": "文西德尔",
+                "en_name": "Wunsiedel"
+            },
+            {
+                "ch_name": "维尔茨堡",
+                "en_name": "Würzburg"
+            },
+            {
+                "ch_name": "齐恩多夫",
+                "en_name": "Zirndorf"
+            }
+        ]
+    },
+    {
+        "ch_name": "柏林",
+        "en_name": "Berlin",
+        "code": "BE",
+        "cities": [
+            {
+                "ch_name": "柏林",
+                "en_name": "Berlin"
+            }
+        ]
+    },
+    {
+        "ch_name": "勃兰登堡",
+        "en_name": "Brandenburg",
+        "code": "BB",
+        "cities": [
+            {
+                "ch_name": "贝斯科",
+                "en_name": "Beeskow"
+            },
+            {
+                "ch_name": "布兰肯费尔德",
+                "en_name": "Blankenfelde"
+            },
+            {
+                "ch_name": "勃兰登堡",
+                "en_name": "Brandenburg"
+            },
+            {
+                "ch_name": "科特布斯",
+                "en_name": "Cottbus"
+            },
+            {
+                "ch_name": "埃伯斯瓦尔德",
+                "en_name": "Eberswalde"
+            },
+            {
+                "ch_name": "法尔肯西",
+                "en_name": "Falkensee"
+            },
+            {
+                "ch_name": "森林（劳西茨）",
+                "en_name": "Forst (Lausitz)"
+            },
+            {
+                "ch_name": "法兰克福（奥德）",
+                "en_name": "Frankfurt (Oder)"
+            },
+            {
+                "ch_name": "菲尔斯滕瓦尔德",
+                "en_name": "Fürstenwalde"
+            },
+            {
+                "ch_name": "亨尼斯多夫",
+                "en_name": "Hennigsdorf"
+            },
+            {
+                "ch_name": "赫茨伯格",
+                "en_name": "Herzberg"
+            },
+            {
+                "ch_name": "霍赫·纽因多夫",
+                "en_name": "Hohen Neuendorf"
+            },
+            {
+                "ch_name": "柯尼希斯武斯特豪森",
+                "en_name": "Königs Wusterhausen"
+            },
+            {
+                "ch_name": "卢肯瓦尔德",
+                "en_name": "Luckenwalde"
+            },
+            {
+                "ch_name": "路德维希费尔德",
+                "en_name": "Ludwigsfelde"
+            },
+            {
+                "ch_name": "吕本",
+                "en_name": "Lübben (Spreewald)"
+            },
+            {
+                "ch_name": "新鲁平",
+                "en_name": "Neuruppin"
+            },
+            {
+                "ch_name": "奥拉尼恩堡",
+                "en_name": "Oranienburg"
+            },
+            {
+                "ch_name": "佩尔伯格",
+                "en_name": "Perleberg"
+            },
+            {
+                "ch_name": "波茨坦",
+                "en_name": "Potsdam"
+            },
+            {
+                "ch_name": "普伦兹劳",
+                "en_name": "Prenzlau"
+            },
+            {
+                "ch_name": "拉特诺",
+                "en_name": "Rathenow"
+            },
+            {
+                "ch_name": "施韦特",
+                "en_name": "Schwedt (Oder)"
+            },
+            {
+                "ch_name": "西洛",
+                "en_name": "Seelow"
+            },
+            {
+                "ch_name": "森夫滕伯格",
+                "en_name": "Senftenberg"
+            },
+            {
+                "ch_name": "斯特拉斯堡",
+                "en_name": "Strausberg"
+            },
+            {
+                "ch_name": "泰尔托",
+                "en_name": "Teltow"
+            }
+        ]
+    },
+    {
+        "ch_name": "不来梅",
+        "en_name": "Bremen",
+        "code": "HB",
+        "cities": [
+            {
+                "ch_name": "不来梅",
+                "en_name": "Bremen"
+            },
+            {
+                "ch_name": "不来梅哈芬",
+                "en_name": "Bremerhaven"
+            }
+        ]
+    },
+    {
+        "ch_name": "汉堡",
+        "en_name": "Hamburg",
+        "code": "HH",
+        "cities": [
+            {
+                "ch_name": "汉堡",
+                "en_name": "Hamburg"
+            }
+        ]
+    },
+    {
+        "ch_name": "黑森",
+        "en_name": "Hesse",
+        "code": "HE",
+        "cities": [
+            {
+                "ch_name": "巴特赫斯菲尔德",
+                "en_name": "Bad Hersfeld"
+            },
+            {
+                "ch_name": "巴特霍姆堡",
+                "en_name": "Bad Homburg"
+            },
+            {
+                "ch_name": "巴特诺海姆",
+                "en_name": "Bad Nauheim"
+            },
+            {
+                "ch_name": "巴特施瓦尔巴赫",
+                "en_name": "Bad Schwalbach"
+            },
+            {
+                "ch_name": "巴特菲尔伯尔",
+                "en_name": "Bad Vilbel"
+            },
+            {
+                "ch_name": "包纳塔尔",
+                "en_name": "Baunatal"
+            },
+            {
+                "ch_name": "本斯海姆",
+                "en_name": "Bensheim"
+            },
+            {
+                "ch_name": "布茨巴赫",
+                "en_name": "Butzbach"
+            },
+            {
+                "ch_name": "达姆施塔特",
+                "en_name": "Darmstadt"
+            },
+            {
+                "ch_name": "迪岑巴赫",
+                "en_name": "Dietzenbach"
+            },
+            {
+                "ch_name": "德赖艾希",
+                "en_name": "Dreieich"
+            },
+            {
+                "ch_name": "埃尔巴赫",
+                "en_name": "Erbach"
+            },
+            {
+                "ch_name": "埃斯威格",
+                "en_name": "Eschwege"
+            },
+            {
+                "ch_name": "法兰克福",
+                "en_name": "Frankfurt"
+            },
+            {
+                "ch_name": "弗里德里希斯多夫",
+                "en_name": "Friedrichsdorf"
+            },
+            {
+                "ch_name": "富尔达",
+                "en_name": "Fulda"
+            },
+            {
+                "ch_name": "吉森",
+                "en_name": "Gießen"
+            },
+            {
+                "ch_name": "格里谢姆",
+                "en_name": "Griesheim"
+            },
+            {
+                "ch_name": "大盖劳",
+                "en_name": "Groß-Gerau"
+            },
+            {
+                "ch_name": "哈瑙",
+                "en_name": "Hanau"
+            },
+            {
+                "ch_name": "哈特谢姆",
+                "en_name": "Hattersheim"
+            },
+            {
+                "ch_name": "庚海姆",
+                "en_name": "Heppenheim"
+            },
+            {
+                "ch_name": "霍夫海姆",
+                "en_name": "Hofheim"
+            },
+            {
+                "ch_name": "霍姆伯格",
+                "en_name": "Homberg"
+            },
+            {
+                "ch_name": "卡塞尔",
+                "en_name": "Kassel"
+            },
+            {
+                "ch_name": "克尔凯姆（陶努斯）",
+                "en_name": "Kelkheim (Taunus)"
+            },
+            {
+                "ch_name": "科巴赫",
+                "en_name": "Korbach"
+            },
+            {
+                "ch_name": "兰佩雷米姆",
+                "en_name": "Lampertheim"
+            },
+            {
+                "ch_name": "朗根",
+                "en_name": "Langen"
+            },
+            {
+                "ch_name": "劳特巴赫",
+                "en_name": "Lauterbach"
+            },
+            {
+                "ch_name": "林堡",
+                "en_name": "Limburg"
+            },
+            {
+                "ch_name": "美因塔尔",
+                "en_name": "Maintal"
+            },
+            {
+                "ch_name": "马尔堡",
+                "en_name": "Marburg"
+            },
+            {
+                "ch_name": "莫尔费尔登·沃尔多夫",
+                "en_name": "Mörfelden-Walldorf"
+            },
+            {
+                "ch_name": "新伊森堡",
+                "en_name": "Neu Isenburg"
+            },
+            {
+                "ch_name": "上乌瑟尔",
+                "en_name": "Oberursel"
+            },
+            {
+                "ch_name": "奥芬巴赫",
+                "en_name": "Offenbach"
+            },
+            {
+                "ch_name": "普芬斯塔特",
+                "en_name": "Pfungstadt"
+            },
+            {
+                "ch_name": "罗德高",
+                "en_name": "Rodgau"
+            },
+            {
+                "ch_name": "吕瑟尔斯海姆",
+                "en_name": "Rüsselsheim"
+            },
+            {
+                "ch_name": "陶努斯施泰因",
+                "en_name": "Taunusstein"
+            },
+            {
+                "ch_name": "维恩海姆",
+                "en_name": "Viernheim"
+            },
+            {
+                "ch_name": "魏特尔斯塔特",
+                "en_name": "Weiterstadt"
+            },
+            {
+                "ch_name": "韦茨拉尔",
+                "en_name": "Wetzlar"
+            },
+            {
+                "ch_name": "威斯巴登",
+                "en_name": "Wiesbaden"
+            }
+        ]
+    },
+    {
+        "ch_name": "下萨克森州",
+        "en_name": "Lower Saxony",
+        "code": "NI",
+        "cities": [
+            {
+                "ch_name": "阿希姆",
+                "en_name": "Achim"
+            },
+            {
+                "ch_name": "奥里斯",
+                "en_name": "Aurich"
+            },
+            {
+                "ch_name": "巴特法林博斯特",
+                "en_name": "Bad Fallingbostel"
+            },
+            {
+                "ch_name": "巴特兹维希纳恩",
+                "en_name": "Bad Zwischenahn"
+            },
+            {
+                "ch_name": "巴辛豪森",
+                "en_name": "Barsinghausen"
+            },
+            {
+                "ch_name": "布拉克",
+                "en_name": "Brake"
+            },
+            {
+                "ch_name": "布拉姆舍",
+                "en_name": "Bramsche"
+            },
+            {
+                "ch_name": "布伦瑞克",
+                "en_name": "Braunschweig"
+            },
+            {
+                "ch_name": "布霍尔茨",
+                "en_name": "Buchholz in der Nordheide"
+            },
+            {
+                "ch_name": "布格多夫",
+                "en_name": "Burgdorf"
+            },
+            {
+                "ch_name": "布克舒德",
+                "en_name": "Buxtehude"
+            },
+            {
+                "ch_name": "策勒",
+                "en_name": "Celle"
+            },
+            {
+                "ch_name": "克洛彭堡",
+                "en_name": "Cloppenburg"
+            },
+            {
+                "ch_name": "库克斯港",
+                "en_name": "Cuxhaven"
+            },
+            {
+                "ch_name": "德尔门霍斯特",
+                "en_name": "Delmenhorst"
+            },
+            {
+                "ch_name": "迪菲尔兹",
+                "en_name": "Diepholz"
+            },
+            {
+                "ch_name": "艾恩贝克",
+                "en_name": "Einbeck"
+            },
+            {
+                "ch_name": "埃姆登",
+                "en_name": "Emden"
+            },
+            {
+                "ch_name": "甘德克塞",
+                "en_name": "Ganderkesee"
+            },
+            {
+                "ch_name": "加布森",
+                "en_name": "Garbsen"
+            },
+            {
+                "ch_name": "格奥尔格斯马里恩胡特",
+                "en_name": "Georgsmarienhütte"
+            },
+            {
+                "ch_name": "吉霍恩",
+                "en_name": "Gifhorn"
+            },
+            {
+                "ch_name": "戈斯拉尔",
+                "en_name": "Goslar"
+            },
+            {
+                "ch_name": "哥廷根",
+                "en_name": "Göttingen"
+            },
+            {
+                "ch_name": "哈默恩",
+                "en_name": "Hameln"
+            },
+            {
+                "ch_name": "汉诺威",
+                "en_name": "Hannover"
+            },
+            {
+                "ch_name": "赫尔姆斯特德",
+                "en_name": "Helmstedt"
+            },
+            {
+                "ch_name": "希尔德斯海姆",
+                "en_name": "Hildesheim"
+            },
+            {
+                "ch_name": "霍尔茨明登",
+                "en_name": "Holzminden"
+            },
+            {
+                "ch_name": "叶弗",
+                "en_name": "Jever"
+            },
+            {
+                "ch_name": "拉岑",
+                "en_name": "Laatzen"
+            },
+            {
+                "ch_name": "兰根哈根",
+                "en_name": "Langenhagen"
+            },
+            {
+                "ch_name": "莱尔",
+                "en_name": "Leer"
+            },
+            {
+                "ch_name": "莱尔特",
+                "en_name": "Lehrte"
+            },
+            {
+                "ch_name": "林根",
+                "en_name": "Lingen"
+            },
+            {
+                "ch_name": "勒讷",
+                "en_name": "Lohne"
+            },
+            {
+                "ch_name": "卢乔夫",
+                "en_name": "Lüchow"
+            },
+            {
+                "ch_name": "吕内堡",
+                "en_name": "Lüneburg"
+            },
+            {
+                "ch_name": "梅勒",
+                "en_name": "Melle"
+            },
+            {
+                "ch_name": "梅彭",
+                "en_name": "Meppen"
+            },
+            {
+                "ch_name": "纽斯塔特阿姆伦伯格",
+                "en_name": "Neustadt am Rübenberge"
+            },
+            {
+                "ch_name": "奈梅根",
+                "en_name": "Nienburg"
+            },
+            {
+                "ch_name": "诺登汉姆",
+                "en_name": "Nordenham"
+            },
+            {
+                "ch_name": "诺德霍恩",
+                "en_name": "Nordhorn"
+            },
+            {
+                "ch_name": "诺瑟姆",
+                "en_name": "Northeim"
+            },
+            {
+                "ch_name": "奥尔登堡",
+                "en_name": "Oldenburg"
+            },
+            {
+                "ch_name": "奥斯纳布吕克",
+                "en_name": "Osnabrück"
+            },
+            {
+                "ch_name": "奥斯特霍尔茨－沙姆贝克",
+                "en_name": "Osterholz-Scharmbeck"
+            },
+            {
+                "ch_name": "奥斯特罗德",
+                "en_name": "Osterode"
+            },
+            {
+                "ch_name": "帕彭堡",
+                "en_name": "Papenburg"
+            },
+            {
+                "ch_name": "派讷",
+                "en_name": "Peine"
+            },
+            {
+                "ch_name": "林特尔恩",
+                "en_name": "Rinteln"
+            },
+            {
+                "ch_name": "罗滕堡",
+                "en_name": "Rotenburg"
+            },
+            {
+                "ch_name": "萨尔兹吉特",
+                "en_name": "Salzgitter"
+            },
+            {
+                "ch_name": "海豹",
+                "en_name": "Seelze"
+            },
+            {
+                "ch_name": "塞费塔尔",
+                "en_name": "Seevetal"
+            },
+            {
+                "ch_name": "斯普林",
+                "en_name": "Springe"
+            },
+            {
+                "ch_name": "施塔德",
+                "en_name": "Stade"
+            },
+            {
+                "ch_name": "施塔特哈根",
+                "en_name": "Stadthagen"
+            },
+            {
+                "ch_name": "施图尔",
+                "en_name": "Stuhr"
+            },
+            {
+                "ch_name": "于尔岑",
+                "en_name": "Uelzen"
+            },
+            {
+                "ch_name": "维克塔",
+                "en_name": "Vechta"
+            },
+            {
+                "ch_name": "费尔登",
+                "en_name": "Verden"
+            },
+            {
+                "ch_name": "韦斯特施泰德",
+                "en_name": "Westerstede"
+            },
+            {
+                "ch_name": "韦赫",
+                "en_name": "Weyhe"
+            },
+            {
+                "ch_name": "威廉斯",
+                "en_name": "Wilhelmshaven"
+            },
+            {
+                "ch_name": "温森",
+                "en_name": "Winsen"
+            },
+            {
+                "ch_name": "维特蒙德",
+                "en_name": "Wittmund"
+            },
+            {
+                "ch_name": "沃尔芬比特尔",
+                "en_name": "Wolfenbüttel"
+            },
+            {
+                "ch_name": "沃尔夫斯堡",
+                "en_name": "Wolfsburg"
+            },
+            {
+                "ch_name": "范斯托夫",
+                "en_name": "Wunstorf"
+            }
+        ]
+    },
+    {
+        "ch_name": "梅克伦堡西波美拉尼亚",
+        "en_name": "Mecklenburg-Western Pomerania",
+        "code": "MV",
+        "cities": [
+            {
+                "ch_name": "格雷夫斯瓦尔德",
+                "en_name": "Greifswald"
+            },
+            {
+                "ch_name": "居斯特罗",
+                "en_name": "Güstrow"
+            },
+            {
+                "ch_name": "新勃兰登堡",
+                "en_name": "Neubrandenburg"
+            },
+            {
+                "ch_name": "帕希姆",
+                "en_name": "Parchim"
+            },
+            {
+                "ch_name": "罗斯托克",
+                "en_name": "Rostock"
+            },
+            {
+                "ch_name": "施韦林",
+                "en_name": "Schwerin"
+            },
+            {
+                "ch_name": "斯特拉森",
+                "en_name": "Stralsund"
+            },
+            {
+                "ch_name": "维斯玛",
+                "en_name": "Wismar"
+            }
+        ]
+    },
+    {
+        "ch_name": "北莱茵-威斯特伐利亚",
+        "en_name": "North Rhine-Westphalia",
+        "code": "NW",
+        "cities": [
+            {
+                "ch_name": "亚琛",
+                "en_name": "Aachen"
+            },
+            {
+                "ch_name": "亚哈",
+                "en_name": "Ahaus"
+            },
+            {
+                "ch_name": "阿伦",
+                "en_name": "Ahlen"
+            },
+            {
+                "ch_name": "阿尔斯多夫",
+                "en_name": "Alsdorf"
+            },
+            {
+                "ch_name": "阿恩斯伯格",
+                "en_name": "Arnsberg"
+            },
+            {
+                "ch_name": "巴特洪内夫",
+                "en_name": "Bad Honnef am Rhein"
+            },
+            {
+                "ch_name": "巴特奥伊豪森",
+                "en_name": "Bad Oeynhausen"
+            },
+            {
+                "ch_name": "巴特萨尔祖夫伦",
+                "en_name": "Bad Salzuflen"
+            },
+            {
+                "ch_name": "贝斯韦勒",
+                "en_name": "Baesweiler"
+            },
+            {
+                "ch_name": "贝库姆",
+                "en_name": "Beckum"
+            },
+            {
+                "ch_name": "伯格海姆",
+                "en_name": "Bergheim"
+            },
+            {
+                "ch_name": "伯吉斯奇·格拉德巴赫",
+                "en_name": "Bergisch Gladbach"
+            },
+            {
+                "ch_name": "博格卡门",
+                "en_name": "Bergkamen"
+            },
+            {
+                "ch_name": "比勒费尔德",
+                "en_name": "Bielefeld"
+            },
+            {
+                "ch_name": "波霍尔特",
+                "en_name": "Bocholt"
+            },
+            {
+                "ch_name": "波鸿",
+                "en_name": "Bochum"
+            },
+            {
+                "ch_name": "波恩",
+                "en_name": "Bonn"
+            },
+            {
+                "ch_name": "博肯",
+                "en_name": "Borken"
+            },
+            {
+                "ch_name": "伯恩海姆",
+                "en_name": "Bornheim"
+            },
+            {
+                "ch_name": "博特罗普",
+                "en_name": "Bottrop"
+            },
+            {
+                "ch_name": "布里隆",
+                "en_name": "Brilon"
+            },
+            {
+                "ch_name": "布鲁塞尔",
+                "en_name": "Brühl"
+            },
+            {
+                "ch_name": "本德",
+                "en_name": "Bünde"
+            },
+            {
+                "ch_name": "卡斯特罗普劳塞尔",
+                "en_name": "Castrop-Rauxel"
+            },
+            {
+                "ch_name": "科斯菲尔德",
+                "en_name": "Coesfeld"
+            },
+            {
+                "ch_name": "科隆",
+                "en_name": "Cologne"
+            },
+            {
+                "ch_name": "达特尔恩",
+                "en_name": "Datteln"
+            },
+            {
+                "ch_name": "德尔布吕克",
+                "en_name": "Delbrück"
+            },
+            {
+                "ch_name": "代特莫尔德",
+                "en_name": "Detmold"
+            },
+            {
+                "ch_name": "丁斯拉肯",
+                "en_name": "Dinslaken"
+            },
+            {
+                "ch_name": "多马根",
+                "en_name": "Dormagen"
+            },
+            {
+                "ch_name": "多斯滕",
+                "en_name": "Dorsten"
+            },
+            {
+                "ch_name": "多特蒙德",
+                "en_name": "Dortmund"
+            },
+            {
+                "ch_name": "杜伊斯堡",
+                "en_name": "Duisburg"
+            },
+            {
+                "ch_name": "杜尔门",
+                "en_name": "Dülmen"
+            },
+            {
+                "ch_name": "迪伦",
+                "en_name": "Düren"
+            },
+            {
+                "ch_name": "杜塞尔多夫",
+                "en_name": "Düsseldorf"
+            },
+            {
+                "ch_name": "埃姆斯代滕",
+                "en_name": "Emsdetten"
+            },
+            {
+                "ch_name": "恩讷珀塔尔",
+                "en_name": "Ennepetal"
+            },
+            {
+                "ch_name": "埃尔夫施塔特",
+                "en_name": "Erftstadt"
+            },
+            {
+                "ch_name": "埃尔克伦茨",
+                "en_name": "Erkelenz"
+            },
+            {
+                "ch_name": "埃尔克拉斯",
+                "en_name": "Erkrath"
+            },
+            {
+                "ch_name": "埃斯威勒",
+                "en_name": "Eschweiler"
+            },
+            {
+                "ch_name": "埃森",
+                "en_name": "Essen"
+            },
+            {
+                "ch_name": "尤斯基森",
+                "en_name": "Euskirchen"
+            },
+            {
+                "ch_name": "弗雷兴",
+                "en_name": "Frechen"
+            },
+            {
+                "ch_name": "盖伦基兴",
+                "en_name": "Geilenkirchen"
+            },
+            {
+                "ch_name": "盖尔登",
+                "en_name": "Geldern"
+            },
+            {
+                "ch_name": "盖尔森基兴",
+                "en_name": "Gelsenkirchen"
+            },
+            {
+                "ch_name": "格维尔斯伯格",
+                "en_name": "Gevelsberg"
+            },
+            {
+                "ch_name": "格拉德贝克",
+                "en_name": "Gladbeck"
+            },
+            {
+                "ch_name": "戈赫",
+                "en_name": "Goch"
+            },
+            {
+                "ch_name": "格雷文",
+                "en_name": "Greven"
+            },
+            {
+                "ch_name": "格雷文布罗希",
+                "en_name": "Grevenbroich"
+            },
+            {
+                "ch_name": "格罗瑙",
+                "en_name": "Gronau"
+            },
+            {
+                "ch_name": "古默斯巴赫",
+                "en_name": "Gummersbach"
+            },
+            {
+                "ch_name": "居特斯洛",
+                "en_name": "Gütersloh"
+            },
+            {
+                "ch_name": "哈恩",
+                "en_name": "Haan"
+            },
+            {
+                "ch_name": "黑根",
+                "en_name": "Hagen"
+            },
+            {
+                "ch_name": "哈姆",
+                "en_name": "Hamm"
+            },
+            {
+                "ch_name": "哈明克恩",
+                "en_name": "Hamminkeln"
+            },
+            {
+                "ch_name": "哈廷根",
+                "en_name": "Hattingen"
+            },
+            {
+                "ch_name": "海利根豪斯",
+                "en_name": "Heiligenhaus"
+            },
+            {
+                "ch_name": "海因斯伯格",
+                "en_name": "Heinsberg"
+            },
+            {
+                "ch_name": "黑默尔",
+                "en_name": "Hemer"
+            },
+            {
+                "ch_name": "赫福德",
+                "en_name": "Herford"
+            },
+            {
+                "ch_name": "赫恩",
+                "en_name": "Herne"
+            },
+            {
+                "ch_name": "黑尔滕",
+                "en_name": "Herten"
+            },
+            {
+                "ch_name": "黑措根奥拉赫",
+                "en_name": "Herzogenrath"
+            },
+            {
+                "ch_name": "希尔登",
+                "en_name": "Hilden"
+            },
+            {
+                "ch_name": "赫克斯特",
+                "en_name": "Höxter"
+            },
+            {
+                "ch_name": "胡克尔霍文",
+                "en_name": "Hückelhoven"
+            },
+            {
+                "ch_name": "休斯",
+                "en_name": "Hürth"
+            },
+            {
+                "ch_name": "伊本比伦",
+                "en_name": "Ibbenbüren"
+            },
+            {
+                "ch_name": "伊瑟洛恩",
+                "en_name": "Iserlohn"
+            },
+            {
+                "ch_name": "尤利希",
+                "en_name": "Jülich"
+            },
+            {
+                "ch_name": "卡尔斯特",
+                "en_name": "Kaarst"
+            },
+            {
+                "ch_name": "卡门",
+                "en_name": "Kamen"
+            },
+            {
+                "ch_name": "坎普林福特",
+                "en_name": "Kamp-Lintfort"
+            },
+            {
+                "ch_name": "肯蓬",
+                "en_name": "Kempen"
+            },
+            {
+                "ch_name": "凯尔彭",
+                "en_name": "Kerpen"
+            },
+            {
+                "ch_name": "凯沃拉尔",
+                "en_name": "Kevelaer"
+            },
+            {
+                "ch_name": "克莱夫",
+                "en_name": "Kleve"
+            },
+            {
+                "ch_name": "科申布罗赫",
+                "en_name": "Korschenbroich"
+            },
+            {
+                "ch_name": "克雷菲尔德",
+                "en_name": "Krefeld"
+            },
+            {
+                "ch_name": "克罗伊茨塔尔",
+                "en_name": "Kreuztal"
+            },
+            {
+                "ch_name": "柯尼希斯温特",
+                "en_name": "Königswinter"
+            },
+            {
+                "ch_name": "拉格",
+                "en_name": "Lage"
+            },
+            {
+                "ch_name": "朗根费尔德",
+                "en_name": "Langenfeld"
+            },
+            {
+                "ch_name": "莱希林根",
+                "en_name": "Leichlingen"
+            },
+            {
+                "ch_name": "莱姆戈",
+                "en_name": "Lemgo"
+            },
+            {
+                "ch_name": "伦讷施塔特",
+                "en_name": "Lennestadt"
+            },
+            {
+                "ch_name": "勒沃库森",
+                "en_name": "Leverkusen"
+            },
+            {
+                "ch_name": "利普斯塔特",
+                "en_name": "Lippstadt"
+            },
+            {
+                "ch_name": "勒马尔",
+                "en_name": "Lohmar"
+            },
+            {
+                "ch_name": "勒讷",
+                "en_name": "Löhne"
+            },
+            {
+                "ch_name": "吕伯克",
+                "en_name": "Lübbecke"
+            },
+            {
+                "ch_name": "吕登沙伊德",
+                "en_name": "Lüdenscheid"
+            },
+            {
+                "ch_name": "吕嫩",
+                "en_name": "Lünen"
+            },
+            {
+                "ch_name": "马尔",
+                "en_name": "Marl"
+            },
+            {
+                "ch_name": "梅谢尼希",
+                "en_name": "Mechernich"
+            },
+            {
+                "ch_name": "米尔布希",
+                "en_name": "Meerbusch"
+            },
+            {
+                "ch_name": "梅舍德",
+                "en_name": "Meschede"
+            },
+            {
+                "ch_name": "梅特曼",
+                "en_name": "Mettmann"
+            },
+            {
+                "ch_name": "明登",
+                "en_name": "Minden"
+            },
+            {
+                "ch_name": "莫尔斯-维恩",
+                "en_name": "Moers"
+            },
+            {
+                "ch_name": "门兴格拉德巴赫",
+                "en_name": "Mönchengladbach"
+            },
+            {
+                "ch_name": "迈尔海姆",
+                "en_name": "Mülheim"
+            },
+            {
+                "ch_name": "明斯特",
+                "en_name": "Münster"
+            },
+            {
+                "ch_name": "内特塔尔",
+                "en_name": "Nettetal"
+            },
+            {
+                "ch_name": "诺伊斯",
+                "en_name": "Neuss"
+            },
+            {
+                "ch_name": "下卡瑟尔",
+                "en_name": "Niederkassel"
+            },
+            {
+                "ch_name": "奥伯豪森",
+                "en_name": "Oberhausen"
+            },
+            {
+                "ch_name": "奥尔德",
+                "en_name": "Oelde"
+            },
+            {
+                "ch_name": "奥尔－埃肯施维克",
+                "en_name": "Oer-Erkenschwick"
+            },
+            {
+                "ch_name": "奥尔珀",
+                "en_name": "Olpe"
+            },
+            {
+                "ch_name": "奥沃拉特",
+                "en_name": "Overath"
+            },
+            {
+                "ch_name": "帕德伯恩",
+                "en_name": "Paderborn"
+            },
+            {
+                "ch_name": "彼得沙根",
+                "en_name": "Petershagen"
+            },
+            {
+                "ch_name": "普莱滕伯格",
+                "en_name": "Plettenberg"
+            },
+            {
+                "ch_name": "波塔韦斯特法利卡",
+                "en_name": "Porta Westfalica"
+            },
+            {
+                "ch_name": "普尔海姆",
+                "en_name": "Pulheim"
+            },
+            {
+                "ch_name": "拉廷根",
+                "en_name": "Ratingen"
+            },
+            {
+                "ch_name": "雷克林豪森",
+                "en_name": "Recklinghausen"
+            },
+            {
+                "ch_name": "雷姆谢德",
+                "en_name": "Remscheid"
+            },
+            {
+                "ch_name": "雷达-维登布吕克",
+                "en_name": "Rheda-Wiedenbrück"
+            },
+            {
+                "ch_name": "莱茵巴赫",
+                "en_name": "Rheinbach"
+            },
+            {
+                "ch_name": "莱茵海因伯格",
+                "en_name": "Rheinberg"
+            },
+            {
+                "ch_name": "莱茵",
+                "en_name": "Rheine"
+            },
+            {
+                "ch_name": "里特伯格",
+                "en_name": "Rietberg"
+            },
+            {
+                "ch_name": "勒斯拉特",
+                "en_name": "Rösrath"
+            },
+            {
+                "ch_name": "圣奥古斯丁",
+                "en_name": "Sankt Augustin"
+            },
+            {
+                "ch_name": "施洛斯霍尔特-斯图肯布罗克",
+                "en_name": "Schloß Holte-Stukenbrock"
+            },
+            {
+                "ch_name": "施韦尔",
+                "en_name": "Schwelm"
+            },
+            {
+                "ch_name": "施韦尔特",
+                "en_name": "Schwerte"
+            },
+            {
+                "ch_name": "塞尔姆",
+                "en_name": "Selm"
+            },
+            {
+                "ch_name": "西格伯格",
+                "en_name": "Siegburg"
+            },
+            {
+                "ch_name": "锡根",
+                "en_name": "Siegen"
+            },
+            {
+                "ch_name": "苏斯特",
+                "en_name": "Soest"
+            },
+            {
+                "ch_name": "索林根",
+                "en_name": "Solingen"
+            },
+            {
+                "ch_name": "斯坦福德",
+                "en_name": "Steinfurt"
+            },
+            {
+                "ch_name": "斯托尔伯格",
+                "en_name": "Stolberg"
+            },
+            {
+                "ch_name": "孙登",
+                "en_name": "Sundern"
+            },
+            {
+                "ch_name": "特罗伊斯多夫",
+                "en_name": "Troisdorf"
+            },
+            {
+                "ch_name": "特尼斯福斯特",
+                "en_name": "Tönisvorst"
+            },
+            {
+                "ch_name": "翁纳",
+                "en_name": "Unna"
+            },
+            {
+                "ch_name": "维尔伯特",
+                "en_name": "Velbert"
+            },
+            {
+                "ch_name": "维尔",
+                "en_name": "Verl"
+            },
+            {
+                "ch_name": "菲尔森",
+                "en_name": "Viersen"
+            },
+            {
+                "ch_name": "沃尔特罗普",
+                "en_name": "Waltrop"
+            },
+            {
+                "ch_name": "瓦伦多夫",
+                "en_name": "Warendorf"
+            },
+            {
+                "ch_name": "瓦格伯格",
+                "en_name": "Wegberg"
+            },
+            {
+                "ch_name": "威尔",
+                "en_name": "Werl"
+            },
+            {
+                "ch_name": "韦梅尔丘奇",
+                "en_name": "Wermelskirchen"
+            },
+            {
+                "ch_name": "韦尔维",
+                "en_name": "Werve"
+            },
+            {
+                "ch_name": "韦塞尔",
+                "en_name": "Wesel"
+            },
+            {
+                "ch_name": "威瑟林",
+                "en_name": "Wesseling"
+            },
+            {
+                "ch_name": "鲁尔",
+                "en_name": "Ruhr"
+            },
+            {
+                "ch_name": "威利奇",
+                "en_name": "Willich"
+            },
+            {
+                "ch_name": "维滕",
+                "en_name": "Witten"
+            },
+            {
+                "ch_name": "乌珀塔尔",
+                "en_name": "Wuppertal"
+            },
+            {
+                "ch_name": "维尔瑟伦",
+                "en_name": "Würselen"
+            }
+        ]
+    },
+    {
+        "ch_name": "莱茵兰-普法尔茨",
+        "en_name": "Rhineland-Palatinate",
+        "code": "RP",
+        "cities": [
+            {
+                "ch_name": "阿尔滕基兴",
+                "en_name": "Altenkirchen"
+            },
+            {
+                "ch_name": "阿尔泽伊",
+                "en_name": "Alzey"
+            },
+            {
+                "ch_name": "安德纳赫",
+                "en_name": "Andernach"
+            },
+            {
+                "ch_name": "巴特杜尔海姆",
+                "en_name": "Bad Dürkheim"
+            },
+            {
+                "ch_name": "巴特埃姆斯",
+                "en_name": "Bad Ems"
+            },
+            {
+                "ch_name": "巴特克鲁兹纳克",
+                "en_name": "Bad Kreuznach"
+            },
+            {
+                "ch_name": "巴特诺伊纳尔·阿尔韦勒",
+                "en_name": "Bad Neuenahr-Ahrweiler"
+            },
+            {
+                "ch_name": "宾根莱茵",
+                "en_name": "Bingen am Rhein"
+            },
+            {
+                "ch_name": "伯肯菲尔德",
+                "en_name": "Birkenfeld"
+            },
+            {
+                "ch_name": "比特堡",
+                "en_name": "Bitburg"
+            },
+            {
+                "ch_name": "科切姆",
+                "en_name": "Cochem"
+            },
+            {
+                "ch_name": "多因",
+                "en_name": "Daun"
+            },
+            {
+                "ch_name": "弗兰肯塔尔",
+                "en_name": "Frankenthal"
+            },
+            {
+                "ch_name": "杰默舍姆",
+                "en_name": "Germersheim"
+            },
+            {
+                "ch_name": "英格尔海姆",
+                "en_name": "Ingelheim"
+            },
+            {
+                "ch_name": "凯瑟斯劳滕",
+                "en_name": "Kaiserslautern"
+            },
+            {
+                "ch_name": "基希海姆",
+                "en_name": "Kirchheimbolanden"
+            },
+            {
+                "ch_name": "科布伦茨",
+                "en_name": "Koblenz"
+            },
+            {
+                "ch_name": "库塞尔",
+                "en_name": "Kusel"
+            },
+            {
+                "ch_name": "兰道",
+                "en_name": "Landau"
+            },
+            {
+                "ch_name": "路德维希港",
+                "en_name": "Ludwigshafen"
+            },
+            {
+                "ch_name": "美因茨",
+                "en_name": "Mainz"
+            },
+            {
+                "ch_name": "蒙塔鲍尔",
+                "en_name": "Montabaur"
+            },
+            {
+                "ch_name": "纽斯塔特",
+                "en_name": "Neustadt"
+            },
+            {
+                "ch_name": "新维德",
+                "en_name": "Neuwied"
+            },
+            {
+                "ch_name": "皮尔马森斯",
+                "en_name": "Pirmasens"
+            },
+            {
+                "ch_name": "西梅尔恩",
+                "en_name": "Simmern"
+            },
+            {
+                "ch_name": "斯派尔",
+                "en_name": "Speyer"
+            },
+            {
+                "ch_name": "特里尔",
+                "en_name": "Trier"
+            },
+            {
+                "ch_name": "维特利希",
+                "en_name": "Wittlich"
+            },
+            {
+                "ch_name": "沃尔姆斯",
+                "en_name": "Worms"
+            },
+            {
+                "ch_name": "茨韦布吕肯",
+                "en_name": "Zweibrücken"
+            }
+        ]
+    },
+    {
+        "ch_name": "萨尔兰",
+        "en_name": "Saarland",
+        "code": "SL",
+        "cities": [
+            {
+                "ch_name": "霍姆堡",
+                "en_name": "Homburg"
+            },
+            {
+                "ch_name": "梅尔齐格",
+                "en_name": "Merzig"
+            },
+            {
+                "ch_name": "诺恩基琴",
+                "en_name": "Neunkirchen"
+            },
+            {
+                "ch_name": "萨尔布鲁肯",
+                "en_name": "Saarbrücken"
+            },
+            {
+                "ch_name": "萨尔卢伊斯",
+                "en_name": "Saarlouis"
+            },
+            {
+                "ch_name": "圣英格伯特",
+                "en_name": "Sankt Ingbert"
+            },
+            {
+                "ch_name": "圣文德尔",
+                "en_name": "Sankt Wendel"
+            },
+            {
+                "ch_name": "弗尔克林根",
+                "en_name": "Völklingen"
+            }
+        ]
+    },
+    {
+        "ch_name": "萨克森",
+        "en_name": "Saxony",
+        "code": "SN",
+        "cities": [
+            {
+                "ch_name": "安纳伯格·布霍尔茨",
+                "en_name": "Annaberg-Buchholz"
+            },
+            {
+                "ch_name": "包岑",
+                "en_name": "Bautzen"
+            },
+            {
+                "ch_name": "比特菲尔德",
+                "en_name": "Bitterfeld"
+            },
+            {
+                "ch_name": "开姆尼茨",
+                "en_name": "Chemnitz"
+            },
+            {
+                "ch_name": "德累斯顿",
+                "en_name": "Dresden"
+            },
+            {
+                "ch_name": "弗赖堡",
+                "en_name": "Freiberg"
+            },
+            {
+                "ch_name": "弗里塔尔",
+                "en_name": "Freital"
+            },
+            {
+                "ch_name": "格里马",
+                "en_name": "Grimma"
+            },
+            {
+                "ch_name": "格尔利茨",
+                "en_name": "Görlitz"
+            },
+            {
+                "ch_name": "霍耶斯韦达",
+                "en_name": "Hoyerswerda"
+            },
+            {
+                "ch_name": "莱比锡",
+                "en_name": "Leipzig"
+            },
+            {
+                "ch_name": "迈森",
+                "en_name": "Meißen"
+            },
+            {
+                "ch_name": "皮纳",
+                "en_name": "Pirna"
+            },
+            {
+                "ch_name": "普劳恩",
+                "en_name": "Plauen"
+            },
+            {
+                "ch_name": "拉德贝尔",
+                "en_name": "Radebeul"
+            },
+            {
+                "ch_name": "里萨",
+                "en_name": "Riesa"
+            },
+            {
+                "ch_name": "托尔高",
+                "en_name": "Torgau"
+            },
+            {
+                "ch_name": "齐陶",
+                "en_name": "Zittau"
+            },
+            {
+                "ch_name": "茨维考",
+                "en_name": "Zwickau"
+            }
+        ]
+    },
+    {
+        "ch_name": "萨克森安哈尔特",
+        "en_name": "Saxony-Anhalt",
+        "code": "ST",
+        "cities": [
+            {
+                "ch_name": "阿舍斯莱本",
+                "en_name": "Aschersleben"
+            },
+            {
+                "ch_name": "伯恩堡",
+                "en_name": "Bernburg"
+            },
+            {
+                "ch_name": "伯格",
+                "en_name": "Burg"
+            },
+            {
+                "ch_name": "德绍",
+                "en_name": "Dessau-Roßlau"
+            },
+            {
+                "ch_name": "哈伯斯塔特",
+                "en_name": "Halberstadt"
+            },
+            {
+                "ch_name": "哈尔登斯莱本",
+                "en_name": "Haldensleben"
+            },
+            {
+                "ch_name": "哈雷",
+                "en_name": "Halle"
+            },
+            {
+                "ch_name": "克滕",
+                "en_name": "Köthen"
+            },
+            {
+                "ch_name": "马格德堡",
+                "en_name": "Magdeburg"
+            },
+            {
+                "ch_name": "梅尔斯堡",
+                "en_name": "Merseburg"
+            },
+            {
+                "ch_name": "纳姆堡",
+                "en_name": "Naumburg"
+            },
+            {
+                "ch_name": "萨尔兹韦德尔",
+                "en_name": "Salzwedel"
+            },
+            {
+                "ch_name": "桑格豪森",
+                "en_name": "Sangerhausen"
+            },
+            {
+                "ch_name": "舍讷贝克",
+                "en_name": "Schönebeck"
+            },
+            {
+                "ch_name": "施塔斯富特",
+                "en_name": "Staßfurt"
+            },
+            {
+                "ch_name": "施滕达尔",
+                "en_name": "Stendal"
+            },
+            {
+                "ch_name": "魏森费尔斯",
+                "en_name": "Weißenfels"
+            },
+            {
+                "ch_name": "沃尼格罗德",
+                "en_name": "Wernigerode"
+            },
+            {
+                "ch_name": "维滕伯格",
+                "en_name": "Wittenberg"
+            },
+            {
+                "ch_name": "蔡茨",
+                "en_name": "Zeitz"
+            }
+        ]
+    },
+    {
+        "ch_name": "石勒苏益格-荷尔斯泰因州",
+        "en_name": "Schleswig-Holstein",
+        "code": "SH",
+        "cities": [
+            {
+                "ch_name": "阿伦斯堡",
+                "en_name": "Ahrensburg"
+            },
+            {
+                "ch_name": "巴特奥尔德斯洛 ",
+                "en_name": "Bad Oldesloe"
+            },
+            {
+                "ch_name": "巴特塞格贝格",
+                "en_name": "Bad Segeberg"
+            },
+            {
+                "ch_name": "埃尔姆肖恩",
+                "en_name": "Elmshorn"
+            },
+            {
+                "ch_name": "奥伊廷",
+                "en_name": "Eutin"
+            },
+            {
+                "ch_name": "弗伦斯堡",
+                "en_name": "Flensburg"
+            },
+            {
+                "ch_name": "盖斯特哈赫特",
+                "en_name": "Geesthacht"
+            },
+            {
+                "ch_name": "海德",
+                "en_name": "Heide"
+            },
+            {
+                "ch_name": "亨施泰特·乌尔茨堡",
+                "en_name": "Henstedt-Ulzburg"
+            },
+            {
+                "ch_name": "胡苏姆",
+                "en_name": "Husum"
+            },
+            {
+                "ch_name": "伊泽霍",
+                "en_name": "Itzehoe"
+            },
+            {
+                "ch_name": "基尔",
+                "en_name": "Kiel"
+            },
+            {
+                "ch_name": "吕贝克",
+                "en_name": "Lübeck"
+            },
+            {
+                "ch_name": "纽明斯特",
+                "en_name": "Neumünster"
+            },
+            {
+                "ch_name": "诺德斯特德",
+                "en_name": "Norderstedt"
+            },
+            {
+                "ch_name": "平纳伯格",
+                "en_name": "Pinneberg"
+            },
+            {
+                "ch_name": "普伦",
+                "en_name": "Plön"
+            },
+            {
+                "ch_name": "拉兹堡",
+                "en_name": "Ratzeburg"
+            },
+            {
+                "ch_name": "莱因贝克",
+                "en_name": "Reinbek"
+            },
+            {
+                "ch_name": "伦斯堡",
+                "en_name": "Rendsburg"
+            },
+            {
+                "ch_name": "石勒苏益格",
+                "en_name": "Schleswig"
+            },
+            {
+                "ch_name": "韦德尔",
+                "en_name": "Wedel"
+            }
+        ]
+    },
+    {
+        "ch_name": "图林根",
+        "en_name": "Thuringia",
+        "code": "TH",
+        "cities": [
+            {
+                "ch_name": "阿尔滕堡",
+                "en_name": "Altenburg"
+            },
+            {
+                "ch_name": "阿波拉",
+                "en_name": "Apolda"
+            },
+            {
+                "ch_name": "阿恩施塔特",
+                "en_name": "Arnstadt"
+            },
+            {
+                "ch_name": "巴特萨尔聪根",
+                "en_name": "Bad Salzungen"
+            },
+            {
+                "ch_name": "艾森纳克",
+                "en_name": "Eisenach"
+            },
+            {
+                "ch_name": "艾森伯格",
+                "en_name": "Eisenberg"
+            },
+            {
+                "ch_name": "埃尔福特",
+                "en_name": "Erfurt"
+            },
+            {
+                "ch_name": "格拉",
+                "en_name": "Gera"
+            },
+            {
+                "ch_name": "哥达",
+                "en_name": "Gotha"
+            },
+            {
+                "ch_name": "格赖茨",
+                "en_name": "Greiz"
+            },
+            {
+                "ch_name": "海尔巴德海利根斯塔特",
+                "en_name": "Heilbad Heiligenstadt"
+            },
+            {
+                "ch_name": "希尔德堡豪森",
+                "en_name": "Hildburghausen"
+            },
+            {
+                "ch_name": "伊尔默瑙",
+                "en_name": "Ilmenau"
+            },
+            {
+                "ch_name": "耶拿",
+                "en_name": "Jena"
+            },
+            {
+                "ch_name": "梅宁根",
+                "en_name": "Meiningen"
+            },
+            {
+                "ch_name": "穆尔豪斯",
+                "en_name": "Mühlhausen"
+            },
+            {
+                "ch_name": "诺德豪森",
+                "en_name": "Nordhausen"
+            },
+            {
+                "ch_name": "萨尔菲尔德",
+                "en_name": "Saalfeld"
+            },
+            {
+                "ch_name": "施莱茨",
+                "en_name": "Schleiz"
+            },
+            {
+                "ch_name": "桑德绍森",
+                "en_name": "Sondershausen"
+            },
+            {
+                "ch_name": "索内伯格",
+                "en_name": "Sonneberg"
+            },
+            {
+                "ch_name": "苏尔",
+                "en_name": "Suhl"
+            },
+            {
+                "ch_name": "瑟默达",
+                "en_name": "Sömmerda"
+            },
+            {
+                "ch_name": "魏玛",
+                "en_name": "Weimar"
+            }
+        ]
+    }
+]

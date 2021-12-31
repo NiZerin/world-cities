@@ -1,0 +1,382 @@
+[
+    {
+        "ch_name": "西澳大利亚州",
+        "en_name": "Western Australia",
+        "code": "WA",
+        "cities": [
+            {
+                "ch_name": "伯斯",
+                "en_name": "Perth"
+            },
+            {
+                "ch_name": "奥班尼",
+                "en_name": "Albany"
+            },
+            {
+                "ch_name": "布鲁姆",
+                "en_name": "Broome"
+            },
+            {
+                "ch_name": "班伯利",
+                "en_name": "Bunbury"
+            },
+            {
+                "ch_name": "杰洛顿",
+                "en_name": "Geraldton"
+            },
+            {
+                "ch_name": "费利曼图",
+                "en_name": "Fremantle"
+            },
+            {
+                "ch_name": "卡尔古利",
+                "en_name": "Kalgoorlie"
+            },
+            {
+                "ch_name": "曼杜拉",
+                "en_name": "Mandurah"
+            },
+            {
+                "ch_name": "贺德兰港",
+                "en_name": "Port Hedland"
+            }
+        ]
+    },
+    {
+        "ch_name": "北领地",
+        "en_name": "Northern Territory",
+        "code": "NT",
+        "cities": [
+            {
+                "ch_name": "达尔文",
+                "en_name": "Darwin"
+            },
+            {
+                "ch_name": "爱丽斯泉",
+                "en_name": "Alice Springs"
+            },
+            {
+                "ch_name": "凯瑟琳",
+                "en_name": "Catherine"
+            },
+            {
+                "ch_name": "帕马斯顿",
+                "en_name": "Palmerston"
+            }
+        ]
+    },
+    {
+        "ch_name": "南澳大利亚州",
+        "en_name": "South Australia",
+        "code": "SA",
+        "cities": [
+            {
+                "ch_name": "阿德莱德",
+                "en_name": "Adelaide"
+            },
+            {
+                "ch_name": "甘比尔山",
+                "en_name": "Mt Gambier"
+            },
+            {
+                "ch_name": "梅里桥",
+                "en_name": "Merry bridge"
+            },
+            {
+                "ch_name": "奥古斯塔港",
+                "en_name": "Port Augusta"
+            },
+            {
+                "ch_name": "皮里港",
+                "en_name": "Port Pirie"
+            },
+            {
+                "ch_name": "林肯港",
+                "en_name": "Port Lincoln"
+            },
+            {
+                "ch_name": "威亚拉",
+                "en_name": "Willy ara"
+            }
+        ]
+    },
+    {
+        "ch_name": "昆士兰州",
+        "en_name": "Queensland",
+        "code": "QLD",
+        "cities": [
+            {
+                "ch_name": "布里斯班",
+                "en_name": "Brisbane"
+            },
+            {
+                "ch_name": "班德堡",
+                "en_name": "Bundaberg"
+            },
+            {
+                "ch_name": "凯恩斯",
+                "en_name": "Keynes"
+            },
+            {
+                "ch_name": "格列士敦",
+                "en_name": "Gladstone"
+            },
+            {
+                "ch_name": "黄金海岸",
+                "en_name": "Gold Coast"
+            },
+            {
+                "ch_name": "金彼",
+                "en_name": "Gympie"
+            },
+            {
+                "ch_name": "赫维湾",
+                "en_name": "Hervey Bay"
+            },
+            {
+                "ch_name": "伊普斯维奇",
+                "en_name": "Ipswich"
+            },
+            {
+                "ch_name": "罗根",
+                "en_name": "Logan city"
+            },
+            {
+                "ch_name": "麦凯",
+                "en_name": "Mackay"
+            },
+            {
+                "ch_name": "伊萨山",
+                "en_name": "Mt Isa"
+            },
+            {
+                "ch_name": "洛坎普顿",
+                "en_name": "Rockhampton"
+            },
+            {
+                "ch_name": "阳光海岸",
+                "en_name": "Sunshine Coast"
+            },
+            {
+                "ch_name": "图文巴",
+                "en_name": "Toowoomba"
+            },
+            {
+                "ch_name": "汤斯维尔",
+                "en_name": "Townsville"
+            },
+            {
+                "ch_name": "库隆加塔",
+                "en_name": "Coolangatta"
+            },
+            {
+                "ch_name": "玛丽伯勒",
+                "en_name": "Maryborough"
+            },
+            {
+                "ch_name": "南港",
+                "en_name": "Southport"
+            }
+        ]
+    },
+    {
+        "ch_name": "新南威尔士州",
+        "en_name": "New South Wales",
+        "code": "NSW",
+        "cities": [
+            {
+                "ch_name": "悉尼",
+                "en_name": "Sydney"
+            },
+            {
+                "ch_name": "奥尔伯里",
+                "en_name": "Albury"
+            },
+            {
+                "ch_name": "阿米代尔",
+                "en_name": "Armidale"
+            },
+            {
+                "ch_name": "巴瑟斯特",
+                "en_name": "Bathurst"
+            },
+            {
+                "ch_name": "布罗肯希尔",
+                "en_name": "Broken Hill"
+            },
+            {
+                "ch_name": "塞斯诺克",
+                "en_name": "Cessnock"
+            },
+            {
+                "ch_name": "达博",
+                "en_name": "Dubbo"
+            },
+            {
+                "ch_name": "戈斯福",
+                "en_name": "Gosford"
+            },
+            {
+                "ch_name": "古尔本",
+                "en_name": "Goulburn"
+            },
+            {
+                "ch_name": "格拉夫顿",
+                "en_name": "Grafton"
+            },
+            {
+                "ch_name": "格里菲斯",
+                "en_name": "Griffith"
+            },
+            {
+                "ch_name": "麦觉理湖",
+                "en_name": "Lake Macquarie"
+            },
+            {
+                "ch_name": "立斯摩尔",
+                "en_name": "Lismore"
+            },
+            {
+                "ch_name": "梅特兰",
+                "en_name": "Maitland"
+            },
+            {
+                "ch_name": "纽卡索",
+                "en_name": "Newcastle"
+            },
+            {
+                "ch_name": "诺拉",
+                "en_name": "Nowra"
+            },
+            {
+                "ch_name": "奥兰治",
+                "en_name": "Orange"
+            },
+            {
+                "ch_name": "麦觉理港",
+                "en_name": "Port Macquarie"
+            },
+            {
+                "ch_name": "昆比恩",
+                "en_name": "Queanbeyan"
+            },
+            {
+                "ch_name": "塔姆沃思",
+                "en_name": "Tamworth"
+            },
+            {
+                "ch_name": "堤维德岬",
+                "en_name": "Tweed Heads"
+            },
+            {
+                "ch_name": "沃加沃加",
+                "en_name": "Wagga Wagga"
+            },
+            {
+                "ch_name": "伍伦贡(卧龙岗)",
+                "en_name": "Wollongong"
+            },
+            {
+                "ch_name": "怀昂",
+                "en_name": "Wyong"
+            }
+        ]
+    },
+    {
+        "ch_name": "澳大利亚首都特区",
+        "en_name": "Australian Capital Territory",
+        "code": "ACT",
+        "cities": [
+            {
+                "ch_name": "堪培拉",
+                "en_name": "Canberra"
+            }
+        ]
+    },
+    {
+        "ch_name": "维多利亚州",
+        "en_name": "Victoria",
+        "code": "Vic",
+        "cities": [
+            {
+                "ch_name": "墨尔本",
+                "en_name": "Melbourne"
+            },
+            {
+                "ch_name": "雅拉瑞特",
+                "en_name": "Ararat"
+            },
+            {
+                "ch_name": "本纳拉",
+                "en_name": "Benalla"
+            },
+            {
+                "ch_name": "柏拉瑞特",
+                "en_name": "Ballarat"
+            },
+            {
+                "ch_name": "本迪戈",
+                "en_name": "Bendigo"
+            },
+            {
+                "ch_name": "基隆",
+                "en_name": "Geelong"
+            },
+            {
+                "ch_name": "米尔杜拉",
+                "en_name": "Mildura"
+            },
+            {
+                "ch_name": "雪帕顿",
+                "en_name": "Shepparton"
+            },
+            {
+                "ch_name": "斯旺希尔(天鹅山)",
+                "en_name": "Swan Hill"
+            },
+            {
+                "ch_name": "旺加拉塔",
+                "en_name": "Wangaratta"
+            },
+            {
+                "ch_name": "华南布尔",
+                "en_name": "Warrnambool"
+            },
+            {
+                "ch_name": "渥东加",
+                "en_name": "Wodonga"
+            },
+            {
+                "ch_name": "玛丽伯勒",
+                "en_name": "Maryborough"
+            }
+        ]
+    },
+    {
+        "ch_name": "塔斯曼尼亚特区",
+        "en_name": "Tasmania",
+        "code": "ACT",
+        "cities": [
+            {
+                "ch_name": "霍巴特",
+                "en_name": "Hobart"
+            },
+            {
+                "ch_name": "伯尔尼",
+                "en_name": "Berne"
+            },
+            {
+                "ch_name": "罗斯",
+                "en_name": "Ross"
+            },
+            {
+                "ch_name": "里奇蒙",
+                "en_name": "Richmond"
+            },
+            {
+                "ch_name": "布鲁尼岛",
+                "en_name": "Bruny Island"
+            }
+        ]
+    }
+]
